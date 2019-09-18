@@ -1,236 +1,200 @@
 [
     {
-        "nr": 0,
+        "nr": 16165,
         "text": "AUGEN VOLLER FARBEN ",
-        "length": 20,
-        "type": ""
+        "lengthOfLine": 20,
+        "type": "Title"
     },
     {
-        "nr": 1,
+        "nr": 16166,
         "text": "",
-        "length": 0,
+        "lengthOfLine": 0,
         "type": ""
     },
     {
-        "nr": 2,
+        "nr": 16167,
         "text": "Der Weg ist weit, oh so weit und ich will kein Ende ",
-        "length": 52,
-        "type": "Title"
+        "lengthOfLine": 52,
+        "type": ""
     },
     {
-        "nr": 3,
+        "nr": 16168,
         "text": "Füße tragen, soweit mir mein Geist erlaubt ",
-        "length": 43,
-        "type": "Title"
+        "lengthOfLine": 43,
+        "type": ""
     },
     {
-        "nr": 4,
+        "nr": 16169,
         "text": "Die Sonne wärmt und sie scheint auf mich, draußen bin ich ",
-        "length": 58,
-        "type": "Title"
+        "lengthOfLine": 58,
+        "type": ""
     },
     {
-        "nr": 5,
+        "nr": 16170,
         "text": "Leben heißt - wohl geh aus dem Schatten raus! ",
-        "length": 46,
-        "type": "Title"
-    },
-    {
-        "nr": 6,
-        "text": "",
-        "length": 0,
+        "lengthOfLine": 46,
         "type": ""
     },
     {
-        "nr": 7,
+        "nr": 16171,
         "text": "",
-        "length": 0,
+        "lengthOfLine": 0,
         "type": ""
     },
     {
-        "nr": 8,
-        "text": "Bridge: ",
-        "length": 8,
+        "nr": 16172,
+        "text": "",
+        "lengthOfLine": 0,
+        "type": ""
+    },
+    {
+        "nr": 16174,
+        "text": "Ein Leben im Spiegel ist nicht, was ich leben will ",
+        "lengthOfLine": 51,
         "type": "Bridge"
     },
     {
-        "nr": 9,
-        "text": "Ein Leben im Spiegel ist nicht, was ich leben will ",
-        "length": 51,
-        "type": "Title"
-    },
-    {
-        "nr": 10,
+        "nr": 16175,
         "text": "Bin tausend Jahre alt, bin, was ich sehen will, ",
-        "length": 48,
-        "type": "Title"
+        "lengthOfLine": 48,
+        "type": "Bridge"
     },
     {
-        "nr": 11,
+        "nr": 16176,
         "text": "(gib mir meine Zeit) ",
-        "length": 21,
-        "type": "Title"
+        "lengthOfLine": 21,
+        "type": "Bridge"
     },
     {
-        "nr": 12,
+        "nr": 16177,
         "text": "",
-        "length": 0,
+        "lengthOfLine": 0,
         "type": ""
     },
     {
-        "nr": 13,
+        "nr": 16178,
         "text": "",
-        "length": 0,
+        "lengthOfLine": 0,
         "type": ""
     },
     {
-        "nr": 14,
+        "nr": 16179,
         "text": "Das Ziel unbekannt, das Wasser so tief ",
-        "length": 39,
-        "type": "Title"
+        "lengthOfLine": 39,
+        "type": ""
     },
     {
-        "nr": 15,
+        "nr": 16180,
         "text": "Land vorraus ",
-        "length": 13,
-        "type": "Title"
+        "lengthOfLine": 13,
+        "type": ""
     },
     {
-        "nr": 16,
+        "nr": 16181,
         "text": "Du siehst, was passiert, du suchst, was du kennst ",
-        "length": 50,
-        "type": "Title"
+        "lengthOfLine": 50,
+        "type": ""
     },
     {
-        "nr": 17,
+        "nr": 16182,
         "text": "Erinnerung ",
-        "length": 11,
+        "lengthOfLine": 11,
         "type": ""
     },
     {
-        "nr": 18,
+        "nr": 16183,
         "text": "",
-        "length": 0,
+        "lengthOfLine": 0,
         "type": ""
     },
     {
-        "nr": 19,
+        "nr": 16184,
         "text": "",
-        "length": 0,
+        "lengthOfLine": 0,
         "type": ""
     },
     {
-        "nr": 20,
+        "nr": 16185,
         "text": "Es ist so weit, oh so weit und die Sicht verschwommen ",
-        "length": 54,
-        "type": "Title"
-    },
-    {
-        "nr": 21,
-        "text": "",
-        "length": 0,
+        "lengthOfLine": 54,
         "type": ""
     },
     {
-        "nr": 22,
-        "text": "",
-        "length": 0,
-        "type": ""
-    },
-    {
-        "nr": 23,
+        "nr": 16186,
         "text": "dreh mich im Kreis, Leben findet einen Weg ",
-        "length": 43,
-        "type": "Title"
-    },
-    {
-        "nr": 24,
-        "text": "",
-        "length": 0,
+        "lengthOfLine": 43,
         "type": ""
     },
     {
-        "nr": 25,
+        "nr": 16187,
         "text": "Die Erde unter dir erklärt sich dir mit kleinen Gesten ",
-        "length": 55,
-        "type": "Title"
-    },
-    {
-        "nr": 26,
-        "text": "Wer wollte alles wissen, über das, was ist ",
-        "length": 43,
-        "type": "Title"
-    },
-    {
-        "nr": 27,
-        "text": "",
-        "length": 0,
+        "lengthOfLine": 55,
         "type": ""
     },
     {
-        "nr": 28,
-        "text": "Refrain: ",
-        "length": 9,
+        "nr": 16188,
+        "text": "Wer wollte alles wissen, über das, was ist ",
+        "lengthOfLine": 43,
+        "type": ""
+    },
+    {
+        "nr": 16189,
+        "text": "",
+        "lengthOfLine": 0,
+        "type": ""
+    },
+    {
+        "nr": 16191,
+        "text": "Nach dem langen Anlauf stoß dich endlich ab ",
+        "lengthOfLine": 44,
         "type": "Refrain"
     },
     {
-        "nr": 29,
-        "text": "Nach dem langen Anlauf stoß dich endlich ab ",
-        "length": 44,
-        "type": "Title"
-    },
-    {
-        "nr": 30,
+        "nr": 16192,
         "text": "Arme werden Flügel, keine Angst ",
-        "length": 32,
-        "type": "Title"
+        "lengthOfLine": 32,
+        "type": "Refrain"
     },
     {
-        "nr": 31,
+        "nr": 16193,
         "text": "Herz überschlägt sich vor Verwunderung ",
-        "length": 39,
-        "type": "Title"
+        "lengthOfLine": 39,
+        "type": "Refrain"
     },
     {
-        "nr": 32,
+        "nr": 16194,
         "text": "Augen voller Farben , Augen voller Farben ",
-        "length": 42,
-        "type": "Title"
+        "lengthOfLine": 42,
+        "type": "Refrain"
     },
     {
-        "nr": 33,
+        "nr": 16195,
         "text": "",
-        "length": 0,
+        "lengthOfLine": 0,
         "type": ""
     },
     {
-        "nr": 34,
+        "nr": 16196,
         "text": "2019 ",
-        "length": 5,
+        "lengthOfLine": 5,
         "type": "Year"
     },
     {
-        "nr": 35,
+        "nr": 16197,
         "text": "(24.04.) ",
-        "length": 9,
+        "lengthOfLine": 9,
         "type": "Date"
     },
     {
-        "nr": 36,
+        "nr": 16198,
         "text": "",
-        "length": 0,
+        "lengthOfLine": 0,
         "type": ""
     },
     {
-        "nr": 37,
+        "nr": 16199,
         "text": "",
-        "length": 0,
-        "type": ""
-    },
-    {
-        "nr": 38,
-        "text": "",
-        "length": 0,
+        "lengthOfLine": 0,
         "type": ""
     }
 ]
