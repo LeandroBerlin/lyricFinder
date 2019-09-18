@@ -11,8 +11,11 @@ searchString = (req, res) => {
     const jsonContent = JSON.parse(content);
     // The desired length of a text line
     const lineLength = req.params.stringLength ? req.params.stringLength : 23;
-    // Filter and assign all the lines that match the length
-    const list23 = jsonContent.filter(line => (line.lengthOfLine >= lineLength ? line.text : ''))
+    // Filter and assign all the lines that match the length + flat to single array
+    const list23 = jsonContent.map(lyric =>
+        lyric.filter(line => (line.lengthOfLine >= lineLength ? line.text : ''))
+    ).flat()
+
     // Random pick one of the lines
     const randomLine = list23[Math.floor(Math.random() * list23.length)]
 

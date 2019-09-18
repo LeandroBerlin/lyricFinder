@@ -1,200 +1,894 @@
 [
-    {
-        "nr": 16165,
-        "text": "AUGEN VOLLER FARBEN ",
-        "lengthOfLine": 20,
-        "type": "Title"
-    },
-    {
-        "nr": 16166,
-        "text": "",
-        "lengthOfLine": 0,
-        "type": ""
-    },
-    {
-        "nr": 16167,
-        "text": "Der Weg ist weit, oh so weit und ich will kein Ende ",
-        "lengthOfLine": 52,
-        "type": ""
-    },
-    {
-        "nr": 16168,
-        "text": "Füße tragen, soweit mir mein Geist erlaubt ",
-        "lengthOfLine": 43,
-        "type": ""
-    },
-    {
-        "nr": 16169,
-        "text": "Die Sonne wärmt und sie scheint auf mich, draußen bin ich ",
-        "lengthOfLine": 58,
-        "type": ""
-    },
-    {
-        "nr": 16170,
-        "text": "Leben heißt - wohl geh aus dem Schatten raus! ",
-        "lengthOfLine": 46,
-        "type": ""
-    },
-    {
-        "nr": 16171,
-        "text": "",
-        "lengthOfLine": 0,
-        "type": ""
-    },
-    {
-        "nr": 16172,
-        "text": "",
-        "lengthOfLine": 0,
-        "type": ""
-    },
-    {
-        "nr": 16174,
-        "text": "Ein Leben im Spiegel ist nicht, was ich leben will ",
-        "lengthOfLine": 51,
-        "type": "Bridge"
-    },
-    {
-        "nr": 16175,
-        "text": "Bin tausend Jahre alt, bin, was ich sehen will, ",
-        "lengthOfLine": 48,
-        "type": "Bridge"
-    },
-    {
-        "nr": 16176,
-        "text": "(gib mir meine Zeit) ",
-        "lengthOfLine": 21,
-        "type": "Bridge"
-    },
-    {
-        "nr": 16177,
-        "text": "",
-        "lengthOfLine": 0,
-        "type": ""
-    },
-    {
-        "nr": 16178,
-        "text": "",
-        "lengthOfLine": 0,
-        "type": ""
-    },
-    {
-        "nr": 16179,
-        "text": "Das Ziel unbekannt, das Wasser so tief ",
-        "lengthOfLine": 39,
-        "type": ""
-    },
-    {
-        "nr": 16180,
-        "text": "Land vorraus ",
-        "lengthOfLine": 13,
-        "type": ""
-    },
-    {
-        "nr": 16181,
-        "text": "Du siehst, was passiert, du suchst, was du kennst ",
-        "lengthOfLine": 50,
-        "type": ""
-    },
-    {
-        "nr": 16182,
-        "text": "Erinnerung ",
-        "lengthOfLine": 11,
-        "type": ""
-    },
-    {
-        "nr": 16183,
-        "text": "",
-        "lengthOfLine": 0,
-        "type": ""
-    },
-    {
-        "nr": 16184,
-        "text": "",
-        "lengthOfLine": 0,
-        "type": ""
-    },
-    {
-        "nr": 16185,
-        "text": "Es ist so weit, oh so weit und die Sicht verschwommen ",
-        "lengthOfLine": 54,
-        "type": ""
-    },
-    {
-        "nr": 16186,
-        "text": "dreh mich im Kreis, Leben findet einen Weg ",
-        "lengthOfLine": 43,
-        "type": ""
-    },
-    {
-        "nr": 16187,
-        "text": "Die Erde unter dir erklärt sich dir mit kleinen Gesten ",
-        "lengthOfLine": 55,
-        "type": ""
-    },
-    {
-        "nr": 16188,
-        "text": "Wer wollte alles wissen, über das, was ist ",
-        "lengthOfLine": 43,
-        "type": ""
-    },
-    {
-        "nr": 16189,
-        "text": "",
-        "lengthOfLine": 0,
-        "type": ""
-    },
-    {
-        "nr": 16191,
-        "text": "Nach dem langen Anlauf stoß dich endlich ab ",
-        "lengthOfLine": 44,
-        "type": "Refrain"
-    },
-    {
-        "nr": 16192,
-        "text": "Arme werden Flügel, keine Angst ",
-        "lengthOfLine": 32,
-        "type": "Refrain"
-    },
-    {
-        "nr": 16193,
-        "text": "Herz überschlägt sich vor Verwunderung ",
-        "lengthOfLine": 39,
-        "type": "Refrain"
-    },
-    {
-        "nr": 16194,
-        "text": "Augen voller Farben , Augen voller Farben ",
-        "lengthOfLine": 42,
-        "type": "Refrain"
-    },
-    {
-        "nr": 16195,
-        "text": "",
-        "lengthOfLine": 0,
-        "type": ""
-    },
-    {
-        "nr": 16196,
-        "text": "2019 ",
-        "lengthOfLine": 5,
-        "type": "Year"
-    },
-    {
-        "nr": 16197,
-        "text": "(24.04.) ",
-        "lengthOfLine": 9,
-        "type": "Date"
-    },
-    {
-        "nr": 16198,
-        "text": "",
-        "lengthOfLine": 0,
-        "type": ""
-    },
-    {
-        "nr": 16199,
-        "text": "",
-        "lengthOfLine": 0,
-        "type": ""
-    }
+    [
+        {
+            "nr": 0,
+            "text": "-nt-",
+            "lengthOfLine": 4,
+            "type": ""
+        },
+        {
+            "nr": 1,
+            "text": "BLAU BLÜHT DER ENZIAN",
+            "lengthOfLine": 21,
+            "type": "Title"
+        },
+        {
+            "nr": 2,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 3,
+            "text": "Ja, ja, so blau, blau, blau blüht der Enzian,",
+            "lengthOfLine": 45,
+            "type": ""
+        },
+        {
+            "nr": 4,
+            "text": "wenn beim Alpenglühn wir uns wiedersehn.",
+            "lengthOfLine": 40,
+            "type": ""
+        },
+        {
+            "nr": 5,
+            "text": "Mit ihren ro-ro-ro-roten Lippen fing es an,",
+            "lengthOfLine": 43,
+            "type": ""
+        },
+        {
+            "nr": 6,
+            "text": "die ich nie vergessen kann.",
+            "lengthOfLine": 27,
+            "type": ""
+        },
+        {
+            "nr": 7,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 8,
+            "text": "Wenn des Sonntags früh um viere die Sonne aufgeht,",
+            "lengthOfLine": 50,
+            "type": ""
+        },
+        {
+            "nr": 9,
+            "text": "und das Schweizer Madel auf die Alm 'naufgeht,",
+            "lengthOfLine": 46,
+            "type": ""
+        },
+        {
+            "nr": 10,
+            "text": "bleib ich ja so gern am Wegrand stehn, ja stehn,",
+            "lengthOfLine": 48,
+            "type": ""
+        },
+        {
+            "nr": 11,
+            "text": "denn das Schweizer Madel sang so schön.",
+            "lengthOfLine": 39,
+            "type": ""
+        },
+        {
+            "nr": 12,
+            "text": "Holla hia, hia, holla di holla di ho.",
+            "lengthOfLine": 37,
+            "type": ""
+        },
+        {
+            "nr": 13,
+            "text": "Holla hia, hia, holla di holla di ho.",
+            "lengthOfLine": 37,
+            "type": ""
+        },
+        {
+            "nr": 14,
+            "text": "Blaue Blumen dann am Wegrand stehn, ja stehn,",
+            "lengthOfLine": 45,
+            "type": ""
+        },
+        {
+            "nr": 15,
+            "text": "denn das Schweizer Madel sang so schön.",
+            "lengthOfLine": 39,
+            "type": ""
+        },
+        {
+            "nr": 16,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 17,
+            "text": "Refrain:",
+            "lengthOfLine": 8,
+            "type": "Refrain"
+        },
+        {
+            "nr": 18,
+            "text": "Ja, ja, so blau, blau, blau blüht der Enzian,",
+            "lengthOfLine": 45,
+            "type": "Refrain"
+        },
+        {
+            "nr": 19,
+            "text": "wenn beim Alpenglühn wir uns wiedersehn.",
+            "lengthOfLine": 40,
+            "type": "Refrain"
+        },
+        {
+            "nr": 20,
+            "text": "Mit ihren ro-ro-ro-roten Lippen fing es an,",
+            "lengthOfLine": 43,
+            "type": "Refrain"
+        },
+        {
+            "nr": 21,
+            "text": "die ich nie vergessen kann.",
+            "lengthOfLine": 27,
+            "type": "Refrain"
+        },
+        {
+            "nr": 22,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 23,
+            "text": "In der ersten Hütte, da hab'n wir zusammen gesessen,",
+            "lengthOfLine": 52,
+            "type": ""
+        },
+        {
+            "nr": 24,
+            "text": "in der zweitenüht der enzianblau bl Hütte, da hab'n wir zusammen gegessen,",
+            "lengthOfLine": 74,
+            "type": ""
+        },
+        {
+            "nr": 25,
+            "text": "in der dritten Hütte hab' ich sie geküßt,",
+            "lengthOfLine": 41,
+            "type": ""
+        },
+        {
+            "nr": 26,
+            "text": "keiner weiß, was dann geschehen ist.",
+            "lengthOfLine": 36,
+            "type": ""
+        },
+        {
+            "nr": 27,
+            "text": "Holla hia, hia, holla di holla di ho.",
+            "lengthOfLine": 37,
+            "type": ""
+        },
+        {
+            "nr": 28,
+            "text": "Holla hia, hia, holla di holla di ho.",
+            "lengthOfLine": 37,
+            "type": ""
+        },
+        {
+            "nr": 29,
+            "text": "In der dritten Hütte hab' ich sie geküßt,",
+            "lengthOfLine": 41,
+            "type": ""
+        },
+        {
+            "nr": 30,
+            "text": "keiner weiß, was dann geschehen ist.",
+            "lengthOfLine": 36,
+            "type": ""
+        },
+        {
+            "nr": 31,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 32,
+            "text": "Refrain:",
+            "lengthOfLine": 8,
+            "type": "Refrain"
+        },
+        {
+            "nr": 33,
+            "text": "Ja, ja, so blau, blau, blau blüht der Enzian,",
+            "lengthOfLine": 45,
+            "type": "Refrain"
+        },
+        {
+            "nr": 34,
+            "text": "wenn beim Alpenglühn wir uns wiedersehn.",
+            "lengthOfLine": 40,
+            "type": "Refrain"
+        },
+        {
+            "nr": 35,
+            "text": "Mit ihren ro-ro-ro-roten Lippen fing es an,",
+            "lengthOfLine": 43,
+            "type": "Refrain"
+        },
+        {
+            "nr": 36,
+            "text": "die ich nie vergessen kann.",
+            "lengthOfLine": 27,
+            "type": "Refrain"
+        },
+        {
+            "nr": 37,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 38,
+            "text": "Artist: Heino",
+            "lengthOfLine": 13,
+            "type": ""
+        },
+        {
+            "nr": 39,
+            "text": "1973",
+            "lengthOfLine": 4,
+            "type": "Year"
+        },
+        {
+            "nr": 40,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 41,
+            "text": "-nt-",
+            "lengthOfLine": 4,
+            "type": ""
+        },
+        {
+            "nr": 42,
+            "text": "EIN TIROLER WOLLTE JAGEN",
+            "lengthOfLine": 24,
+            "type": "Title"
+        },
+        {
+            "nr": 43,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 44,
+            "text": "Ein Tiroler wollte jagen",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 45,
+            "text": "Einen Gemsbock silbergrau",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 46,
+            "text": "Doch es wollt ihm nicht gelingen,",
+            "lengthOfLine": 33,
+            "type": ""
+        },
+        {
+            "nr": 47,
+            "text": "Denn das Tierlein war zu schlau.",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 48,
+            "text": "Holderijaho, Holderijaho",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 49,
+            "text": "Holderija-rija-rija-ho",
+            "lengthOfLine": 22,
+            "type": ""
+        },
+        {
+            "nr": 50,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 51,
+            "text": "Und der Gemsenjäger wollte",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 52,
+            "text": "Zu des Försters Töchterlein:",
+            "lengthOfLine": 28,
+            "type": ""
+        },
+        {
+            "nr": 53,
+            "text": "Doch sie lacht ihm ins Gesichte",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 54,
+            "text": "Und sie läßt ihn nicht herein.",
+            "lengthOfLine": 30,
+            "type": ""
+        },
+        {
+            "nr": 55,
+            "text": "Holderijaho, Holderijaho",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 56,
+            "text": "Holderija-rija-rija-ho",
+            "lengthOfLine": 22,
+            "type": ""
+        },
+        {
+            "nr": 57,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 58,
+            "text": "\"Meine Mutter wills nicht haben,",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 59,
+            "text": "Daß ich einen Jäger lieb\"!",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 60,
+            "text": "Denn ich hab schon einen andern,",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 61,
+            "text": "Einen schmucken Grenadier\".",
+            "lengthOfLine": 27,
+            "type": ""
+        },
+        {
+            "nr": 62,
+            "text": "Holderijaho, Holderijaho",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 63,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 64,
+            "text": "Sitz ein Mägdlein in der Kammer",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 65,
+            "text": "weinet, weinet in die Nacht hinein",
+            "lengthOfLine": 34,
+            "type": ""
+        },
+        {
+            "nr": 66,
+            "text": "sitz ein Vöglein auf dem Baume",
+            "lengthOfLine": 30,
+            "type": ""
+        },
+        {
+            "nr": 67,
+            "text": "singt ein Lied, ein Lied von Lieb und Treu",
+            "lengthOfLine": 42,
+            "type": ""
+        },
+        {
+            "nr": 68,
+            "text": "Holderijaho, Holderijaho",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 69,
+            "text": "Holderija-rija-rija-ho",
+            "lengthOfLine": 22,
+            "type": ""
+        },
+        {
+            "nr": 70,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 71,
+            "text": "Artist: Heino",
+            "lengthOfLine": 13,
+            "type": ""
+        },
+        {
+            "nr": 72,
+            "text": "1974",
+            "lengthOfLine": 4,
+            "type": "Year"
+        },
+        {
+            "nr": 73,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        }
+    ],
+    [
+        {
+            "nr": 0,
+            "text": "-nt-",
+            "lengthOfLine": 4,
+            "type": ""
+        },
+        {
+            "nr": 1,
+            "text": "BLAU BLÜHT DER ENZIAN",
+            "lengthOfLine": 21,
+            "type": "Title"
+        },
+        {
+            "nr": 2,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 3,
+            "text": "Ja, ja, so blau, blau, blau blüht der Enzian,",
+            "lengthOfLine": 45,
+            "type": ""
+        },
+        {
+            "nr": 4,
+            "text": "wenn beim Alpenglühn wir uns wiedersehn.",
+            "lengthOfLine": 40,
+            "type": ""
+        },
+        {
+            "nr": 5,
+            "text": "Mit ihren ro-ro-ro-roten Lippen fing es an,",
+            "lengthOfLine": 43,
+            "type": ""
+        },
+        {
+            "nr": 6,
+            "text": "die ich nie vergessen kann.",
+            "lengthOfLine": 27,
+            "type": ""
+        },
+        {
+            "nr": 7,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 8,
+            "text": "Wenn des Sonntags früh um viere die Sonne aufgeht,",
+            "lengthOfLine": 50,
+            "type": ""
+        },
+        {
+            "nr": 9,
+            "text": "und das Schweizer Madel auf die Alm 'naufgeht,",
+            "lengthOfLine": 46,
+            "type": ""
+        },
+        {
+            "nr": 10,
+            "text": "bleib ich ja so gern am Wegrand stehn, ja stehn,",
+            "lengthOfLine": 48,
+            "type": ""
+        },
+        {
+            "nr": 11,
+            "text": "denn das Schweizer Madel sang so schön.",
+            "lengthOfLine": 39,
+            "type": ""
+        },
+        {
+            "nr": 12,
+            "text": "Holla hia, hia, holla di holla di ho.",
+            "lengthOfLine": 37,
+            "type": ""
+        },
+        {
+            "nr": 13,
+            "text": "Holla hia, hia, holla di holla di ho.",
+            "lengthOfLine": 37,
+            "type": ""
+        },
+        {
+            "nr": 14,
+            "text": "Blaue Blumen dann am Wegrand stehn, ja stehn,",
+            "lengthOfLine": 45,
+            "type": ""
+        },
+        {
+            "nr": 15,
+            "text": "denn das Schweizer Madel sang so schön.",
+            "lengthOfLine": 39,
+            "type": ""
+        },
+        {
+            "nr": 16,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 17,
+            "text": "Refrain:",
+            "lengthOfLine": 8,
+            "type": "Refrain"
+        },
+        {
+            "nr": 18,
+            "text": "Ja, ja, so blau, blau, blau blüht der Enzian,",
+            "lengthOfLine": 45,
+            "type": "Refrain"
+        },
+        {
+            "nr": 19,
+            "text": "wenn beim Alpenglühn wir uns wiedersehn.",
+            "lengthOfLine": 40,
+            "type": "Refrain"
+        },
+        {
+            "nr": 20,
+            "text": "Mit ihren ro-ro-ro-roten Lippen fing es an,",
+            "lengthOfLine": 43,
+            "type": "Refrain"
+        },
+        {
+            "nr": 21,
+            "text": "die ich nie vergessen kann.",
+            "lengthOfLine": 27,
+            "type": "Refrain"
+        },
+        {
+            "nr": 22,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 23,
+            "text": "In der ersten Hütte, da hab'n wir zusammen gesessen,",
+            "lengthOfLine": 52,
+            "type": ""
+        },
+        {
+            "nr": 24,
+            "text": "in der zweitenüht der enzianblau bl Hütte, da hab'n wir zusammen gegessen,",
+            "lengthOfLine": 74,
+            "type": ""
+        },
+        {
+            "nr": 25,
+            "text": "in der dritten Hütte hab' ich sie geküßt,",
+            "lengthOfLine": 41,
+            "type": ""
+        },
+        {
+            "nr": 26,
+            "text": "keiner weiß, was dann geschehen ist.",
+            "lengthOfLine": 36,
+            "type": ""
+        },
+        {
+            "nr": 27,
+            "text": "Holla hia, hia, holla di holla di ho.",
+            "lengthOfLine": 37,
+            "type": ""
+        },
+        {
+            "nr": 28,
+            "text": "Holla hia, hia, holla di holla di ho.",
+            "lengthOfLine": 37,
+            "type": ""
+        },
+        {
+            "nr": 29,
+            "text": "In der dritten Hütte hab' ich sie geküßt,",
+            "lengthOfLine": 41,
+            "type": ""
+        },
+        {
+            "nr": 30,
+            "text": "keiner weiß, was dann geschehen ist.",
+            "lengthOfLine": 36,
+            "type": ""
+        },
+        {
+            "nr": 31,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 32,
+            "text": "Refrain:",
+            "lengthOfLine": 8,
+            "type": "Refrain"
+        },
+        {
+            "nr": 33,
+            "text": "Ja, ja, so blau, blau, blau blüht der Enzian,",
+            "lengthOfLine": 45,
+            "type": "Refrain"
+        },
+        {
+            "nr": 34,
+            "text": "wenn beim Alpenglühn wir uns wiedersehn.",
+            "lengthOfLine": 40,
+            "type": "Refrain"
+        },
+        {
+            "nr": 35,
+            "text": "Mit ihren ro-ro-ro-roten Lippen fing es an,",
+            "lengthOfLine": 43,
+            "type": "Refrain"
+        },
+        {
+            "nr": 36,
+            "text": "die ich nie vergessen kann.",
+            "lengthOfLine": 27,
+            "type": "Refrain"
+        },
+        {
+            "nr": 37,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 38,
+            "text": "Artist: Heino",
+            "lengthOfLine": 13,
+            "type": ""
+        },
+        {
+            "nr": 39,
+            "text": "1973",
+            "lengthOfLine": 4,
+            "type": "Year"
+        },
+        {
+            "nr": 40,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 41,
+            "text": "-nt-",
+            "lengthOfLine": 4,
+            "type": ""
+        },
+        {
+            "nr": 42,
+            "text": "EIN TIROLER WOLLTE JAGEN",
+            "lengthOfLine": 24,
+            "type": "Title"
+        },
+        {
+            "nr": 43,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 44,
+            "text": "Ein Tiroler wollte jagen",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 45,
+            "text": "Einen Gemsbock silbergrau",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 46,
+            "text": "Doch es wollt ihm nicht gelingen,",
+            "lengthOfLine": 33,
+            "type": ""
+        },
+        {
+            "nr": 47,
+            "text": "Denn das Tierlein war zu schlau.",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 48,
+            "text": "Holderijaho, Holderijaho",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 49,
+            "text": "Holderija-rija-rija-ho",
+            "lengthOfLine": 22,
+            "type": ""
+        },
+        {
+            "nr": 50,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 51,
+            "text": "Und der Gemsenjäger wollte",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 52,
+            "text": "Zu des Försters Töchterlein:",
+            "lengthOfLine": 28,
+            "type": ""
+        },
+        {
+            "nr": 53,
+            "text": "Doch sie lacht ihm ins Gesichte",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 54,
+            "text": "Und sie läßt ihn nicht herein.",
+            "lengthOfLine": 30,
+            "type": ""
+        },
+        {
+            "nr": 55,
+            "text": "Holderijaho, Holderijaho",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 56,
+            "text": "Holderija-rija-rija-ho",
+            "lengthOfLine": 22,
+            "type": ""
+        },
+        {
+            "nr": 57,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 58,
+            "text": "\"Meine Mutter wills nicht haben,",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 59,
+            "text": "Daß ich einen Jäger lieb\"!",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 60,
+            "text": "Denn ich hab schon einen andern,",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 61,
+            "text": "Einen schmucken Grenadier\".",
+            "lengthOfLine": 27,
+            "type": ""
+        },
+        {
+            "nr": 62,
+            "text": "Holderijaho, Holderijaho",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 63,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 64,
+            "text": "Sitz ein Mägdlein in der Kammer",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 65,
+            "text": "weinet, weinet in die Nacht hinein",
+            "lengthOfLine": 34,
+            "type": ""
+        },
+        {
+            "nr": 66,
+            "text": "sitz ein Vöglein auf dem Baume",
+            "lengthOfLine": 30,
+            "type": ""
+        },
+        {
+            "nr": 67,
+            "text": "singt ein Lied, ein Lied von Lieb und Treu",
+            "lengthOfLine": 42,
+            "type": ""
+        },
+        {
+            "nr": 68,
+            "text": "Holderijaho, Holderijaho",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 69,
+            "text": "Holderija-rija-rija-ho",
+            "lengthOfLine": 22,
+            "type": ""
+        },
+        {
+            "nr": 70,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 71,
+            "text": "Artist: Heino",
+            "lengthOfLine": 13,
+            "type": ""
+        },
+        {
+            "nr": 72,
+            "text": "1974",
+            "lengthOfLine": 4,
+            "type": "Year"
+        },
+        {
+            "nr": 73,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        }
+    ]
 ]
