@@ -2,444 +2,6 @@
     [
         {
             "nr": 0,
-            "text": "-nt-",
-            "lengthOfLine": 4,
-            "type": ""
-        },
-        {
-            "nr": 1,
-            "text": "BLAU BLÜHT DER ENZIAN",
-            "lengthOfLine": 21,
-            "type": "Title"
-        },
-        {
-            "nr": 2,
-            "text": "",
-            "lengthOfLine": 0,
-            "type": ""
-        },
-        {
-            "nr": 3,
-            "text": "Ja, ja, so blau, blau, blau blüht der Enzian,",
-            "lengthOfLine": 45,
-            "type": ""
-        },
-        {
-            "nr": 4,
-            "text": "wenn beim Alpenglühn wir uns wiedersehn.",
-            "lengthOfLine": 40,
-            "type": ""
-        },
-        {
-            "nr": 5,
-            "text": "Mit ihren ro-ro-ro-roten Lippen fing es an,",
-            "lengthOfLine": 43,
-            "type": ""
-        },
-        {
-            "nr": 6,
-            "text": "die ich nie vergessen kann.",
-            "lengthOfLine": 27,
-            "type": ""
-        },
-        {
-            "nr": 7,
-            "text": "",
-            "lengthOfLine": 0,
-            "type": ""
-        },
-        {
-            "nr": 8,
-            "text": "Wenn des Sonntags früh um viere die Sonne aufgeht,",
-            "lengthOfLine": 50,
-            "type": ""
-        },
-        {
-            "nr": 9,
-            "text": "und das Schweizer Madel auf die Alm 'naufgeht,",
-            "lengthOfLine": 46,
-            "type": ""
-        },
-        {
-            "nr": 10,
-            "text": "bleib ich ja so gern am Wegrand stehn, ja stehn,",
-            "lengthOfLine": 48,
-            "type": ""
-        },
-        {
-            "nr": 11,
-            "text": "denn das Schweizer Madel sang so schön.",
-            "lengthOfLine": 39,
-            "type": ""
-        },
-        {
-            "nr": 12,
-            "text": "Holla hia, hia, holla di holla di ho.",
-            "lengthOfLine": 37,
-            "type": ""
-        },
-        {
-            "nr": 13,
-            "text": "Holla hia, hia, holla di holla di ho.",
-            "lengthOfLine": 37,
-            "type": ""
-        },
-        {
-            "nr": 14,
-            "text": "Blaue Blumen dann am Wegrand stehn, ja stehn,",
-            "lengthOfLine": 45,
-            "type": ""
-        },
-        {
-            "nr": 15,
-            "text": "denn das Schweizer Madel sang so schön.",
-            "lengthOfLine": 39,
-            "type": ""
-        },
-        {
-            "nr": 16,
-            "text": "",
-            "lengthOfLine": 0,
-            "type": ""
-        },
-        {
-            "nr": 17,
-            "text": "Refrain:",
-            "lengthOfLine": 8,
-            "type": "Refrain"
-        },
-        {
-            "nr": 18,
-            "text": "Ja, ja, so blau, blau, blau blüht der Enzian,",
-            "lengthOfLine": 45,
-            "type": "Refrain"
-        },
-        {
-            "nr": 19,
-            "text": "wenn beim Alpenglühn wir uns wiedersehn.",
-            "lengthOfLine": 40,
-            "type": "Refrain"
-        },
-        {
-            "nr": 20,
-            "text": "Mit ihren ro-ro-ro-roten Lippen fing es an,",
-            "lengthOfLine": 43,
-            "type": "Refrain"
-        },
-        {
-            "nr": 21,
-            "text": "die ich nie vergessen kann.",
-            "lengthOfLine": 27,
-            "type": "Refrain"
-        },
-        {
-            "nr": 22,
-            "text": "",
-            "lengthOfLine": 0,
-            "type": ""
-        },
-        {
-            "nr": 23,
-            "text": "In der ersten Hütte, da hab'n wir zusammen gesessen,",
-            "lengthOfLine": 52,
-            "type": ""
-        },
-        {
-            "nr": 24,
-            "text": "in der zweitenüht der enzianblau bl Hütte, da hab'n wir zusammen gegessen,",
-            "lengthOfLine": 74,
-            "type": ""
-        },
-        {
-            "nr": 25,
-            "text": "in der dritten Hütte hab' ich sie geküßt,",
-            "lengthOfLine": 41,
-            "type": ""
-        },
-        {
-            "nr": 26,
-            "text": "keiner weiß, was dann geschehen ist.",
-            "lengthOfLine": 36,
-            "type": ""
-        },
-        {
-            "nr": 27,
-            "text": "Holla hia, hia, holla di holla di ho.",
-            "lengthOfLine": 37,
-            "type": ""
-        },
-        {
-            "nr": 28,
-            "text": "Holla hia, hia, holla di holla di ho.",
-            "lengthOfLine": 37,
-            "type": ""
-        },
-        {
-            "nr": 29,
-            "text": "In der dritten Hütte hab' ich sie geküßt,",
-            "lengthOfLine": 41,
-            "type": ""
-        },
-        {
-            "nr": 30,
-            "text": "keiner weiß, was dann geschehen ist.",
-            "lengthOfLine": 36,
-            "type": ""
-        },
-        {
-            "nr": 31,
-            "text": "",
-            "lengthOfLine": 0,
-            "type": ""
-        },
-        {
-            "nr": 32,
-            "text": "Refrain:",
-            "lengthOfLine": 8,
-            "type": "Refrain"
-        },
-        {
-            "nr": 33,
-            "text": "Ja, ja, so blau, blau, blau blüht der Enzian,",
-            "lengthOfLine": 45,
-            "type": "Refrain"
-        },
-        {
-            "nr": 34,
-            "text": "wenn beim Alpenglühn wir uns wiedersehn.",
-            "lengthOfLine": 40,
-            "type": "Refrain"
-        },
-        {
-            "nr": 35,
-            "text": "Mit ihren ro-ro-ro-roten Lippen fing es an,",
-            "lengthOfLine": 43,
-            "type": "Refrain"
-        },
-        {
-            "nr": 36,
-            "text": "die ich nie vergessen kann.",
-            "lengthOfLine": 27,
-            "type": "Refrain"
-        },
-        {
-            "nr": 37,
-            "text": "",
-            "lengthOfLine": 0,
-            "type": ""
-        },
-        {
-            "nr": 38,
-            "text": "Artist: Heino",
-            "lengthOfLine": 13,
-            "type": ""
-        },
-        {
-            "nr": 39,
-            "text": "1973",
-            "lengthOfLine": 4,
-            "type": "Year"
-        },
-        {
-            "nr": 40,
-            "text": "",
-            "lengthOfLine": 0,
-            "type": ""
-        },
-        {
-            "nr": 41,
-            "text": "-nt-",
-            "lengthOfLine": 4,
-            "type": ""
-        },
-        {
-            "nr": 42,
-            "text": "EIN TIROLER WOLLTE JAGEN",
-            "lengthOfLine": 24,
-            "type": "Title"
-        },
-        {
-            "nr": 43,
-            "text": "",
-            "lengthOfLine": 0,
-            "type": ""
-        },
-        {
-            "nr": 44,
-            "text": "Ein Tiroler wollte jagen",
-            "lengthOfLine": 24,
-            "type": ""
-        },
-        {
-            "nr": 45,
-            "text": "Einen Gemsbock silbergrau",
-            "lengthOfLine": 25,
-            "type": ""
-        },
-        {
-            "nr": 46,
-            "text": "Doch es wollt ihm nicht gelingen,",
-            "lengthOfLine": 33,
-            "type": ""
-        },
-        {
-            "nr": 47,
-            "text": "Denn das Tierlein war zu schlau.",
-            "lengthOfLine": 32,
-            "type": ""
-        },
-        {
-            "nr": 48,
-            "text": "Holderijaho, Holderijaho",
-            "lengthOfLine": 24,
-            "type": ""
-        },
-        {
-            "nr": 49,
-            "text": "Holderija-rija-rija-ho",
-            "lengthOfLine": 22,
-            "type": ""
-        },
-        {
-            "nr": 50,
-            "text": "",
-            "lengthOfLine": 0,
-            "type": ""
-        },
-        {
-            "nr": 51,
-            "text": "Und der Gemsenjäger wollte",
-            "lengthOfLine": 26,
-            "type": ""
-        },
-        {
-            "nr": 52,
-            "text": "Zu des Försters Töchterlein:",
-            "lengthOfLine": 28,
-            "type": ""
-        },
-        {
-            "nr": 53,
-            "text": "Doch sie lacht ihm ins Gesichte",
-            "lengthOfLine": 31,
-            "type": ""
-        },
-        {
-            "nr": 54,
-            "text": "Und sie läßt ihn nicht herein.",
-            "lengthOfLine": 30,
-            "type": ""
-        },
-        {
-            "nr": 55,
-            "text": "Holderijaho, Holderijaho",
-            "lengthOfLine": 24,
-            "type": ""
-        },
-        {
-            "nr": 56,
-            "text": "Holderija-rija-rija-ho",
-            "lengthOfLine": 22,
-            "type": ""
-        },
-        {
-            "nr": 57,
-            "text": "",
-            "lengthOfLine": 0,
-            "type": ""
-        },
-        {
-            "nr": 58,
-            "text": "\"Meine Mutter wills nicht haben,",
-            "lengthOfLine": 32,
-            "type": ""
-        },
-        {
-            "nr": 59,
-            "text": "Daß ich einen Jäger lieb\"!",
-            "lengthOfLine": 26,
-            "type": ""
-        },
-        {
-            "nr": 60,
-            "text": "Denn ich hab schon einen andern,",
-            "lengthOfLine": 32,
-            "type": ""
-        },
-        {
-            "nr": 61,
-            "text": "Einen schmucken Grenadier\".",
-            "lengthOfLine": 27,
-            "type": ""
-        },
-        {
-            "nr": 62,
-            "text": "Holderijaho, Holderijaho",
-            "lengthOfLine": 24,
-            "type": ""
-        },
-        {
-            "nr": 63,
-            "text": "",
-            "lengthOfLine": 0,
-            "type": ""
-        },
-        {
-            "nr": 64,
-            "text": "Sitz ein Mägdlein in der Kammer",
-            "lengthOfLine": 31,
-            "type": ""
-        },
-        {
-            "nr": 65,
-            "text": "weinet, weinet in die Nacht hinein",
-            "lengthOfLine": 34,
-            "type": ""
-        },
-        {
-            "nr": 66,
-            "text": "sitz ein Vöglein auf dem Baume",
-            "lengthOfLine": 30,
-            "type": ""
-        },
-        {
-            "nr": 67,
-            "text": "singt ein Lied, ein Lied von Lieb und Treu",
-            "lengthOfLine": 42,
-            "type": ""
-        },
-        {
-            "nr": 68,
-            "text": "Holderijaho, Holderijaho",
-            "lengthOfLine": 24,
-            "type": ""
-        },
-        {
-            "nr": 69,
-            "text": "Holderija-rija-rija-ho",
-            "lengthOfLine": 22,
-            "type": ""
-        },
-        {
-            "nr": 70,
-            "text": "",
-            "lengthOfLine": 0,
-            "type": ""
-        },
-        {
-            "nr": 71,
-            "text": "Artist: Heino",
-            "lengthOfLine": 13,
-            "type": ""
-        },
-        {
-            "nr": 72,
-            "text": "1974",
-            "lengthOfLine": 4,
-            "type": "Year"
-        },
-        {
-            "nr": 73,
             "text": "",
             "lengthOfLine": 0,
             "type": ""
@@ -448,8 +10,8 @@
     [
         {
             "nr": 0,
-            "text": "-nt-",
-            "lengthOfLine": 4,
+            "text": "",
+            "lengthOfLine": 0,
             "type": ""
         },
         {
@@ -684,7 +246,7 @@
             "nr": 39,
             "text": "1973",
             "lengthOfLine": 4,
-            "type": "Year"
+            "type": ""
         },
         {
             "nr": 40,
@@ -694,98 +256,558 @@
         },
         {
             "nr": 41,
-            "text": "-nt-",
-            "lengthOfLine": 4,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        }
+    ],
+    [
+        {
+            "nr": 0,
+            "text": "",
+            "lengthOfLine": 0,
             "type": ""
         },
         {
-            "nr": 42,
+            "nr": 1,
             "text": "EIN TIROLER WOLLTE JAGEN",
             "lengthOfLine": 24,
             "type": "Title"
         },
         {
-            "nr": 43,
+            "nr": 2,
             "text": "",
             "lengthOfLine": 0,
             "type": ""
         },
         {
-            "nr": 44,
+            "nr": 3,
             "text": "Ein Tiroler wollte jagen",
             "lengthOfLine": 24,
             "type": ""
         },
         {
-            "nr": 45,
+            "nr": 4,
             "text": "Einen Gemsbock silbergrau",
             "lengthOfLine": 25,
             "type": ""
         },
         {
-            "nr": 46,
+            "nr": 5,
             "text": "Doch es wollt ihm nicht gelingen,",
             "lengthOfLine": 33,
             "type": ""
         },
         {
-            "nr": 47,
+            "nr": 6,
             "text": "Denn das Tierlein war zu schlau.",
             "lengthOfLine": 32,
             "type": ""
         },
         {
-            "nr": 48,
+            "nr": 7,
             "text": "Holderijaho, Holderijaho",
             "lengthOfLine": 24,
             "type": ""
         },
         {
-            "nr": 49,
+            "nr": 8,
             "text": "Holderija-rija-rija-ho",
             "lengthOfLine": 22,
             "type": ""
         },
         {
-            "nr": 50,
+            "nr": 9,
             "text": "",
             "lengthOfLine": 0,
             "type": ""
         },
         {
-            "nr": 51,
+            "nr": 10,
             "text": "Und der Gemsenjäger wollte",
             "lengthOfLine": 26,
             "type": ""
         },
         {
-            "nr": 52,
+            "nr": 11,
             "text": "Zu des Försters Töchterlein:",
             "lengthOfLine": 28,
             "type": ""
         },
         {
-            "nr": 53,
+            "nr": 12,
             "text": "Doch sie lacht ihm ins Gesichte",
             "lengthOfLine": 31,
             "type": ""
         },
         {
-            "nr": 54,
+            "nr": 13,
             "text": "Und sie läßt ihn nicht herein.",
             "lengthOfLine": 30,
             "type": ""
         },
         {
-            "nr": 55,
+            "nr": 14,
             "text": "Holderijaho, Holderijaho",
             "lengthOfLine": 24,
             "type": ""
         },
         {
-            "nr": 56,
+            "nr": 15,
             "text": "Holderija-rija-rija-ho",
             "lengthOfLine": 22,
+            "type": ""
+        },
+        {
+            "nr": 16,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 17,
+            "text": "\"Meine Mutter wills nicht haben,",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 18,
+            "text": "Daß ich einen Jäger lieb\"!",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 19,
+            "text": "Denn ich hab schon einen andern,",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 20,
+            "text": "Einen schmucken Grenadier\".",
+            "lengthOfLine": 27,
+            "type": ""
+        },
+        {
+            "nr": 21,
+            "text": "Holderijaho, Holderijaho",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 22,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 23,
+            "text": "Sitz ein Mägdlein in der Kammer",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 24,
+            "text": "weinet, weinet in die Nacht hinein",
+            "lengthOfLine": 34,
+            "type": ""
+        },
+        {
+            "nr": 25,
+            "text": "sitz ein Vöglein auf dem Baume",
+            "lengthOfLine": 30,
+            "type": ""
+        },
+        {
+            "nr": 26,
+            "text": "singt ein Lied, ein Lied von Lieb und Treu",
+            "lengthOfLine": 42,
+            "type": ""
+        },
+        {
+            "nr": 27,
+            "text": "Holderijaho, Holderijaho",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 28,
+            "text": "Holderija-rija-rija-ho",
+            "lengthOfLine": 22,
+            "type": ""
+        },
+        {
+            "nr": 29,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 30,
+            "text": "Artist: Heino",
+            "lengthOfLine": 13,
+            "type": ""
+        },
+        {
+            "nr": 31,
+            "text": "1974",
+            "lengthOfLine": 4,
+            "type": ""
+        },
+        {
+            "nr": 32,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 33,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        }
+    ],
+    [
+        {
+            "nr": 0,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 1,
+            "text": "CARAMBA, KARACHO, EIN WHISKEY",
+            "lengthOfLine": 29,
+            "type": "Title"
+        },
+        {
+            "nr": 2,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 3,
+            "text": "Karamba, Karacho, ein Whisky!",
+            "lengthOfLine": 29,
+            "type": ""
+        },
+        {
+            "nr": 4,
+            "text": "Karamba, Karacho, ein Gin!",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 5,
+            "text": "Verflucht, Sakramento, Dolores,",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 6,
+            "text": "Und alles ist wieder hin!",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 7,
+            "text": "(Hey, hey!)",
+            "lengthOfLine": 11,
+            "type": ""
+        },
+        {
+            "nr": 8,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 9,
+            "text": "Refrain:",
+            "lengthOfLine": 8,
+            "type": "Refrain"
+        },
+        {
+            "nr": 10,
+            "text": "Karamba, Karacho, ein Whisky!",
+            "lengthOfLine": 29,
+            "type": "Refrain"
+        },
+        {
+            "nr": 11,
+            "text": "Karamba, Karacho, ein Gin!",
+            "lengthOfLine": 26,
+            "type": "Refrain"
+        },
+        {
+            "nr": 12,
+            "text": "Verflucht, Sakramento, Dolores,",
+            "lengthOfLine": 31,
+            "type": "Refrain"
+        },
+        {
+            "nr": 13,
+            "text": "Und alles ist wieder hin!",
+            "lengthOfLine": 25,
+            "type": "Refrain"
+        },
+        {
+            "nr": 14,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 15,
+            "text": "In Rio de Janeiro",
+            "lengthOfLine": 17,
+            "type": ""
+        },
+        {
+            "nr": 16,
+            "text": "In einer klitzekleinen Hafenbar",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 17,
+            "text": "Saß ein braungebrannter Gaucho",
+            "lengthOfLine": 30,
+            "type": ""
+        },
+        {
+            "nr": 18,
+            "text": "Mit schwarzbraunem Haar.",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 19,
+            "text": "Und um Dolores zu vergessen,",
+            "lengthOfLine": 28,
+            "type": ""
+        },
+        {
+            "nr": 20,
+            "text": "Die seine Liebste war gewesen,",
+            "lengthOfLine": 30,
+            "type": ""
+        },
+        {
+            "nr": 21,
+            "text": "Sprach er zu Don Filippo,",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 22,
+            "text": "Dem alten Spelunkenwirt:",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 23,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 24,
+            "text": "Refrain:",
+            "lengthOfLine": 8,
+            "type": "Refrain"
+        },
+        {
+            "nr": 25,
+            "text": "Karamba, Karacho, ein Whisky!",
+            "lengthOfLine": 29,
+            "type": "Refrain"
+        },
+        {
+            "nr": 26,
+            "text": "Karamba, Karacho, ein Gin!",
+            "lengthOfLine": 26,
+            "type": "Refrain"
+        },
+        {
+            "nr": 27,
+            "text": "Verflucht, Sakramento, Dolores,",
+            "lengthOfLine": 31,
+            "type": "Refrain"
+        },
+        {
+            "nr": 28,
+            "text": "Und alles ist wieder hin!",
+            "lengthOfLine": 25,
+            "type": "Refrain"
+        },
+        {
+            "nr": 29,
+            "text": "(Hey, hey!)",
+            "lengthOfLine": 11,
+            "type": "Refrain"
+        },
+        {
+            "nr": 30,
+            "text": "Karamba, Karacho, ein Whisky!",
+            "lengthOfLine": 29,
+            "type": "Refrain"
+        },
+        {
+            "nr": 31,
+            "text": "Karamba, Karacho, ein Gin!",
+            "lengthOfLine": 26,
+            "type": "Refrain"
+        },
+        {
+            "nr": 32,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 33,
+            "text": "Verflucht, Sakramento, Dolores,",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 34,
+            "text": "Und alles ist wieder hin!",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 35,
+            "text": "In Rio de Janeiro",
+            "lengthOfLine": 17,
+            "type": ""
+        },
+        {
+            "nr": 36,
+            "text": "In einer klitzekleinen Hafenbar",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 37,
+            "text": "Saß ein braungebrannter Gaucho",
+            "lengthOfLine": 30,
+            "type": ""
+        },
+        {
+            "nr": 38,
+            "text": "Mit schwarzbraunem Haar.",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 39,
+            "text": "Und er sprach: Amigo mio,",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 40,
+            "text": "Sie war die schönste Frau in Rio!",
+            "lengthOfLine": 33,
+            "type": ""
+        },
+        {
+            "nr": 41,
+            "text": "Da lachte Don Filippo,",
+            "lengthOfLine": 22,
+            "type": ""
+        },
+        {
+            "nr": 42,
+            "text": "Der alte Spelunkenwirt:",
+            "lengthOfLine": 23,
+            "type": ""
+        },
+        {
+            "nr": 43,
+            "text": "Karamba, Karacho, ein Whisky!",
+            "lengthOfLine": 29,
+            "type": ""
+        },
+        {
+            "nr": 44,
+            "text": "Karamba, Karacho, ein Gin!",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 45,
+            "text": "Verflucht, Sakramento, Dolores,",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 46,
+            "text": "Und alles ist wieder hin!",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 47,
+            "text": "(Hey, hey!)",
+            "lengthOfLine": 11,
+            "type": ""
+        },
+        {
+            "nr": 48,
+            "text": "Karamba, Karacho, ein Whisky!",
+            "lengthOfLine": 29,
+            "type": ""
+        },
+        {
+            "nr": 49,
+            "text": "Karamba, Karacho, ein Gin!",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 50,
+            "text": "Verflucht, Sakramento, Dolores,",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 51,
+            "text": "Und alles ist wieder hin,",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 52,
+            "text": "Und alles ist wieder hin!",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 53,
+            "text": "Olé!",
+            "lengthOfLine": 4,
+            "type": ""
+        },
+        {
+            "nr": 54,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 55,
+            "text": "Artist: Heino",
+            "lengthOfLine": 13,
+            "type": ""
+        },
+        {
+            "nr": 56,
+            "text": "1972",
+            "lengthOfLine": 4,
             "type": ""
         },
         {
@@ -796,74 +818,430 @@
         },
         {
             "nr": 58,
-            "text": "\"Meine Mutter wills nicht haben,",
-            "lengthOfLine": 32,
+            "text": "",
+            "lengthOfLine": 0,
             "type": ""
-        },
+        }
+    ],
+    [
         {
-            "nr": 59,
-            "text": "Daß ich einen Jäger lieb\"!",
-            "lengthOfLine": 26,
-            "type": ""
-        },
-        {
-            "nr": 60,
-            "text": "Denn ich hab schon einen andern,",
-            "lengthOfLine": 32,
-            "type": ""
-        },
-        {
-            "nr": 61,
-            "text": "Einen schmucken Grenadier\".",
-            "lengthOfLine": 27,
-            "type": ""
-        },
-        {
-            "nr": 62,
-            "text": "Holderijaho, Holderijaho",
-            "lengthOfLine": 24,
-            "type": ""
-        },
-        {
-            "nr": 63,
+            "nr": 0,
             "text": "",
             "lengthOfLine": 0,
             "type": ""
         },
         {
-            "nr": 64,
-            "text": "Sitz ein Mägdlein in der Kammer",
+            "nr": 1,
+            "text": "DIE INTERIMSLIEBENDEN",
+            "lengthOfLine": 21,
+            "type": "Title"
+        },
+        {
+            "nr": 2,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 3,
+            "text": "Während nur eines Zungenschlags",
             "lengthOfLine": 31,
             "type": ""
         },
         {
-            "nr": 65,
-            "text": "weinet, weinet in die Nacht hinein",
+            "nr": 4,
+            "text": "gibt es Urknall und Wärmetod",
+            "lengthOfLine": 28,
+            "type": ""
+        },
+        {
+            "nr": 5,
+            "text": "vom roten Riesen bis zum weissen Zwerg",
+            "lengthOfLine": 38,
+            "type": ""
+        },
+        {
+            "nr": 6,
+            "text": "die ganze Skala",
+            "lengthOfLine": 15,
+            "type": ""
+        },
+        {
+            "nr": 7,
+            "text": "Mir fallen kosmische Dimensionen",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 8,
+            "text": "aus dem Mund",
+            "lengthOfLine": 12,
+            "type": ""
+        },
+        {
+            "nr": 9,
+            "text": "in der Beschreibung eines Kusses",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 10,
+            "text": "der Interimsliebenden",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 11,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 12,
+            "text": "der Interimsliebenden",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 13,
+            "text": "im Interim",
+            "lengthOfLine": 10,
+            "type": ""
+        },
+        {
+            "nr": 14,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 15,
+            "text": "Zwischen Mikrophon und Makrokosmos",
             "lengthOfLine": 34,
             "type": ""
         },
         {
-            "nr": 66,
-            "text": "sitz ein Vöglein auf dem Baume",
+            "nr": 16,
+            "text": "zwischen Chaos und ohne Ziel",
+            "lengthOfLine": 28,
+            "type": ""
+        },
+        {
+            "nr": 17,
+            "text": "zwischen Plankton und Philosophie",
+            "lengthOfLine": 33,
+            "type": ""
+        },
+        {
+            "nr": 18,
+            "text": "zwischen Semtex und Utopie",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 19,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 20,
+            "text": "gibt es sie",
+            "lengthOfLine": 11,
+            "type": ""
+        },
+        {
+            "nr": 21,
+            "text": "die Interimsliebenden",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 22,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 23,
+            "text": "In ihrem gemeinsamen Mund",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 24,
+            "text": "lebt ein Kolibri",
+            "lengthOfLine": 16,
+            "type": ""
+        },
+        {
+            "nr": 25,
+            "text": "Mit jedem seiner Flügelschläge",
             "lengthOfLine": 30,
             "type": ""
         },
         {
-            "nr": 67,
-            "text": "singt ein Lied, ein Lied von Lieb und Treu",
-            "lengthOfLine": 42,
+            "nr": 26,
+            "text": "dafür das Auge viel zu träge",
+            "lengthOfLine": 28,
             "type": ""
         },
         {
-            "nr": 68,
-            "text": "Holderijaho, Holderijaho",
+            "nr": 27,
+            "text": "Kulturen erblühen und vergehen",
+            "lengthOfLine": 30,
+            "type": ""
+        },
+        {
+            "nr": 28,
+            "text": "ganze Kontinente untergehen",
+            "lengthOfLine": 27,
+            "type": ""
+        },
+        {
+            "nr": 29,
+            "text": "Hier gibt es keine harmlosen Worte",
+            "lengthOfLine": 34,
+            "type": ""
+        },
+        {
+            "nr": 30,
+            "text": "alle viel zu gross",
+            "lengthOfLine": 18,
+            "type": ""
+        },
+        {
+            "nr": 31,
+            "text": "und das einfachste Beispiel explodiert",
+            "lengthOfLine": 38,
+            "type": ""
+        },
+        {
+            "nr": 32,
+            "text": "in 10ˆ14 für",
+            "lengthOfLine": 12,
+            "type": ""
+        },
+        {
+            "nr": 33,
+            "text": "die Interimsliebenden",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 34,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 35,
+            "text": "die Interimsliebenden",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 36,
+            "text": "im Interim",
+            "lengthOfLine": 10,
+            "type": ""
+        },
+        {
+            "nr": 37,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 38,
+            "text": "Zwischen Zahnschmerz und Nelkenöl",
+            "lengthOfLine": 33,
+            "type": ""
+        },
+        {
+            "nr": 39,
+            "text": "zwischen Genesis und sixsixsix",
+            "lengthOfLine": 30,
+            "type": ""
+        },
+        {
+            "nr": 40,
+            "text": "zwischen c\" und Vitamin C",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 41,
+            "text": "zwischen ultramarin und maritim",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 42,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 43,
+            "text": "sind Interimsliebende intim",
+            "lengthOfLine": 27,
+            "type": ""
+        },
+        {
+            "nr": 44,
+            "text": "die Interimsliebenden",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 45,
+            "text": "im Interim",
+            "lengthOfLine": 10,
+            "type": ""
+        },
+        {
+            "nr": 46,
+            "text": "Während nur eines Augenaufschlags",
+            "lengthOfLine": 33,
+            "type": ""
+        },
+        {
+            "nr": 47,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 48,
+            "text": "haben sie geputscht",
+            "lengthOfLine": 19,
+            "type": ""
+        },
+        {
+            "nr": 49,
+            "text": "die Regierung gestürzt",
+            "lengthOfLine": 22,
+            "type": ""
+        },
+        {
+            "nr": 50,
+            "text": "Parlament aufgelöst",
+            "lengthOfLine": 19,
+            "type": ""
+        },
+        {
+            "nr": 51,
+            "text": "haben Wahlen abgehalten",
+            "lengthOfLine": 23,
+            "type": ""
+        },
+        {
+            "nr": 52,
+            "text": "das Ergebnis annulliert",
+            "lengthOfLine": 23,
+            "type": ""
+        },
+        {
+            "nr": 53,
+            "text": "haben Wahlen wiederholt",
+            "lengthOfLine": 23,
+            "type": ""
+        },
+        {
+            "nr": 54,
+            "text": "sind letztendlich exiliert",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 55,
+            "text": "von Geschichte ausradiert",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 56,
+            "text": "Ich stapfe durch den Dreck bedeutender",
+            "lengthOfLine": 38,
+            "type": ""
+        },
+        {
+            "nr": 57,
+            "text": "Metaphern",
+            "lengthOfLine": 9,
+            "type": ""
+        },
+        {
+            "nr": 58,
+            "text": "Meta, Meta, Meta für Meter",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 59,
+            "text": "mit Gesten viel zu breit",
             "lengthOfLine": 24,
             "type": ""
         },
         {
+            "nr": 60,
+            "text": "für die Interimsliebenden",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 61,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 62,
+            "text": "die Interimsliebenden",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 63,
+            "text": "sind Liebende im Interim",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 64,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 65,
+            "text": "Zwischen temporär und Tempura",
+            "lengthOfLine": 29,
+            "type": ""
+        },
+        {
+            "nr": 66,
+            "text": "zwischen Seil- und Säbeltanz",
+            "lengthOfLine": 28,
+            "type": ""
+        },
+        {
+            "nr": 67,
+            "text": "zwischendurch und auf dem Meeresboden",
+            "lengthOfLine": 37,
+            "type": ""
+        },
+        {
+            "nr": 68,
+            "text": "zwischen Semtex und Utopie",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
             "nr": 69,
-            "text": "Holderija-rija-rija-ho",
-            "lengthOfLine": 22,
+            "text": "liegen sie sich in den Armen",
+            "lengthOfLine": 28,
             "type": ""
         },
         {
@@ -874,18 +1252,2016 @@
         },
         {
             "nr": 71,
-            "text": "Artist: Heino",
-            "lengthOfLine": 13,
+            "text": "verschlingen aus Durst",
+            "lengthOfLine": 22,
             "type": ""
         },
         {
             "nr": 72,
-            "text": "1974",
-            "lengthOfLine": 4,
-            "type": "Year"
+            "text": "das letzte bisschen Licht",
+            "lengthOfLine": 25,
+            "type": ""
         },
         {
             "nr": 73,
+            "text": "Es gibt sie gestern nicht mehr",
+            "lengthOfLine": 30,
+            "type": ""
+        },
+        {
+            "nr": 74,
+            "text": "und morgen noch nicht",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 75,
+            "text": "die Liebenden",
+            "lengthOfLine": 13,
+            "type": ""
+        },
+        {
+            "nr": 76,
+            "text": "die Interimsliebenden",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 77,
+            "text": "Es gibt sie gestern nicht mehr",
+            "lengthOfLine": 30,
+            "type": ""
+        },
+        {
+            "nr": 78,
+            "text": "und morgen noch nicht",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 79,
+            "text": "nicht wirklich",
+            "lengthOfLine": 14,
+            "type": ""
+        },
+        {
+            "nr": 80,
+            "text": "die Interimsliebenden",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 81,
+            "text": "Es gibt sie gestern nicht mehr",
+            "lengthOfLine": 30,
+            "type": ""
+        },
+        {
+            "nr": 82,
+            "text": "und morgen noch nicht",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 83,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 84,
+            "text": "Artist: Blixa Bargeld",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 85,
+            "text": "1993",
+            "lengthOfLine": 4,
+            "type": ""
+        },
+        {
+            "nr": 86,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 87,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        }
+    ],
+    [
+        {
+            "nr": 0,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 1,
+            "text": "STELLA MARIS",
+            "lengthOfLine": 12,
+            "type": "Title"
+        },
+        {
+            "nr": 2,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 3,
+            "text": "Ich träum' ich treff' dich ganz tief unten",
+            "lengthOfLine": 42,
+            "type": ""
+        },
+        {
+            "nr": 4,
+            "text": "der tiefste Punkt der Erde, Marianengraben, Meeresgrund",
+            "lengthOfLine": 55,
+            "type": ""
+        },
+        {
+            "nr": 5,
+            "text": "Zwischen Nanga Parbat, K 2 und Everest,",
+            "lengthOfLine": 39,
+            "type": ""
+        },
+        {
+            "nr": 6,
+            "text": "das Dach der Welt dort",
+            "lengthOfLine": 22,
+            "type": ""
+        },
+        {
+            "nr": 7,
+            "text": "geb' ich dir ein Fest",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 8,
+            "text": "wo nichts mehr mir die Sicht verstellt",
+            "lengthOfLine": 38,
+            "type": ""
+        },
+        {
+            "nr": 9,
+            "text": "Wenn du kommst, seh' ich dich kommen schon vom Rand der Welt",
+            "lengthOfLine": 60,
+            "type": ""
+        },
+        {
+            "nr": 10,
+            "text": "Es gibt nichts Interessantes hier",
+            "lengthOfLine": 33,
+            "type": ""
+        },
+        {
+            "nr": 11,
+            "text": "Die Ruinen von Atlantis nur",
+            "lengthOfLine": 27,
+            "type": ""
+        },
+        {
+            "nr": 12,
+            "text": "aber keine Spur von dir",
+            "lengthOfLine": 23,
+            "type": ""
+        },
+        {
+            "nr": 13,
+            "text": "Ich glaub' du kommst nicht mehr",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 14,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 15,
+            "text": "Wir haben uns im Traum verpasst",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 16,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 17,
+            "text": "Du träumst mich ich dich",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 18,
+            "text": "Keine Angst ich weck' dich nicht",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 19,
+            "text": "bevor du nicht von selbst erwachst",
+            "lengthOfLine": 34,
+            "type": ""
+        },
+        {
+            "nr": 20,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 21,
+            "text": "Über's Eis in Richtung Nordpol dort werd' ich dich erwarten",
+            "lengthOfLine": 59,
+            "type": ""
+        },
+        {
+            "nr": 22,
+            "text": "werde an der Achse steh'n",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 23,
+            "text": "Aus Feuerland in harter Traumarbeit zum Pol",
+            "lengthOfLine": 43,
+            "type": ""
+        },
+        {
+            "nr": 24,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 25,
+            "text": "wird alles dort sich nur um uns noch dreh'n",
+            "lengthOfLine": 43,
+            "type": ""
+        },
+        {
+            "nr": 26,
+            "text": "Der Polarstern direkt über mir",
+            "lengthOfLine": 30,
+            "type": ""
+        },
+        {
+            "nr": 27,
+            "text": "Dies ist der Pol ich warte hier",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 28,
+            "text": "Nur dich kann' ich weit und breit noch nirgends kommen seh'n",
+            "lengthOfLine": 60,
+            "type": ""
+        },
+        {
+            "nr": 29,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 30,
+            "text": "Ich wart' am falschen Pol",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 31,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 32,
+            "text": "Wir haben uns im Traum verpasst",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 33,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 34,
+            "text": "Du träumst mich ich dich",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 35,
+            "text": "Keine Angst ich finde dich",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 36,
+            "text": "bevor du noch von selbst erwachst",
+            "lengthOfLine": 33,
+            "type": ""
+        },
+        {
+            "nr": 37,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 38,
+            "text": "Bitte, bitte weck' mich nicht",
+            "lengthOfLine": 29,
+            "type": ""
+        },
+        {
+            "nr": 39,
+            "text": "solang ich träum' nur gibt es dich…",
+            "lengthOfLine": 35,
+            "type": ""
+        },
+        {
+            "nr": 40,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 41,
+            "text": "Wir haben uns im Traum verpasst",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 42,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 43,
+            "text": "Du träumst mich ich dich",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 44,
+            "text": "Keine Angst ich weck' dich nicht",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 45,
+            "text": "bevor du nicht von selbst erwachst",
+            "lengthOfLine": 34,
+            "type": ""
+        },
+        {
+            "nr": 46,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 47,
+            "text": "Lass' mich schlafend heuern auf ein Schiff",
+            "lengthOfLine": 42,
+            "type": ""
+        },
+        {
+            "nr": 48,
+            "text": "Kurs: Eldorado, Punt das ist dein Heimatort",
+            "lengthOfLine": 43,
+            "type": ""
+        },
+        {
+            "nr": 49,
+            "text": "Warte an der Küste such' am Horizont",
+            "lengthOfLine": 36,
+            "type": ""
+        },
+        {
+            "nr": 50,
+            "text": "bis endlich ich sehe deine Segel dort",
+            "lengthOfLine": 37,
+            "type": ""
+        },
+        {
+            "nr": 51,
+            "text": "Doch der Käpt'n ist betrunken",
+            "lengthOfLine": 29,
+            "type": ""
+        },
+        {
+            "nr": 52,
+            "text": "und meistens unter Deck",
+            "lengthOfLine": 23,
+            "type": ""
+        },
+        {
+            "nr": 53,
+            "text": "Ich kann im Traum das Schiff nicht steuern",
+            "lengthOfLine": 42,
+            "type": ""
+        },
+        {
+            "nr": 54,
+            "text": "eine Klippe schlägt es Leck",
+            "lengthOfLine": 27,
+            "type": ""
+        },
+        {
+            "nr": 55,
+            "text": "Im Nordmeer ist es dann gesunken",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 56,
+            "text": "Ein Eisberg treibt mich weg",
+            "lengthOfLine": 27,
+            "type": ""
+        },
+        {
+            "nr": 57,
+            "text": "Ich glaub' ich werde lange warten",
+            "lengthOfLine": 33,
+            "type": ""
+        },
+        {
+            "nr": 58,
+            "text": "Punt bleibt unentdeckt",
+            "lengthOfLine": 22,
+            "type": ""
+        },
+        {
+            "nr": 59,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 60,
+            "text": "Wir haben uns im Traum verpasst",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 61,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 62,
+            "text": "Du träumst mich ich dich",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 63,
+            "text": "Keine Angst ich weck' dich nicht",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 64,
+            "text": "bevor du nicht von selbst erwachst",
+            "lengthOfLine": 34,
+            "type": ""
+        },
+        {
+            "nr": 65,
+            "text": "Du träumst mich ich dich",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 66,
+            "text": "Keine Angst ich finde dich",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 67,
+            "text": "am Halbschlafittchen pack' ich dich",
+            "lengthOfLine": 35,
+            "type": ""
+        },
+        {
+            "nr": 68,
+            "text": "und ziehe dich zu mir",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 69,
+            "text": "denn du träumst mich ich dich",
+            "lengthOfLine": 29,
+            "type": ""
+        },
+        {
+            "nr": 70,
+            "text": "ich träum' dich du mich",
+            "lengthOfLine": 23,
+            "type": ""
+        },
+        {
+            "nr": 71,
+            "text": "Wir träumen uns beide wach",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 72,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 73,
+            "text": "Author: Blixa Bargeld",
+            "lengthOfLine": 21,
+            "type": "Author"
+        },
+        {
+            "nr": 74,
+            "text": "1996",
+            "lengthOfLine": 4,
+            "type": "Author"
+        },
+        {
+            "nr": 75,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 76,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        }
+    ],
+    [
+        {
+            "nr": 0,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 1,
+            "text": "YÜ-GUNG",
+            "lengthOfLine": 7,
+            "type": "Title"
+        },
+        {
+            "nr": 2,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 3,
+            "text": "Refrain:",
+            "lengthOfLine": 8,
+            "type": "Refrain"
+        },
+        {
+            "nr": 4,
+            "text": "Fütter mein Ego!",
+            "lengthOfLine": 16,
+            "type": "Refrain"
+        },
+        {
+            "nr": 5,
+            "text": "Fütter mein Ego!",
+            "lengthOfLine": 16,
+            "type": "Refrain"
+        },
+        {
+            "nr": 6,
+            "text": "Fütter mein Ego!",
+            "lengthOfLine": 16,
+            "type": "Refrain"
+        },
+        {
+            "nr": 7,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 8,
+            "text": "Lass uns noch was Wodka holen",
+            "lengthOfLine": 29,
+            "type": ""
+        },
+        {
+            "nr": 9,
+            "text": "russische Vitamine",
+            "lengthOfLine": 18,
+            "type": ""
+        },
+        {
+            "nr": 10,
+            "text": "Ich glaub, wir müssen nochmal hin",
+            "lengthOfLine": 33,
+            "type": ""
+        },
+        {
+            "nr": 11,
+            "text": "Ich glaub, der Typ schläft schon",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 12,
+            "text": "Bestimmt! Niemals!",
+            "lengthOfLine": 18,
+            "type": ""
+        },
+        {
+            "nr": 13,
+            "text": "Zieh!",
+            "lengthOfLine": 5,
+            "type": ""
+        },
+        {
+            "nr": 14,
+            "text": "Niemals schlafen! Alles Lügen!",
+            "lengthOfLine": 30,
+            "type": ""
+        },
+        {
+            "nr": 15,
+            "text": "Staubiges Vergnügen!",
+            "lengthOfLine": 20,
+            "type": ""
+        },
+        {
+            "nr": 16,
+            "text": "Telefon! Zieh!",
+            "lengthOfLine": 14,
+            "type": ""
+        },
+        {
+            "nr": 17,
+            "text": "Hörst du das nicht?",
+            "lengthOfLine": 19,
+            "type": ""
+        },
+        {
+            "nr": 18,
+            "text": "Eine fixe Idee geht durchs Zimmer",
+            "lengthOfLine": 33,
+            "type": ""
+        },
+        {
+            "nr": 19,
+            "text": "Riemenschneider schnitzt sie in meine Gehirnwindungen",
+            "lengthOfLine": 53,
+            "type": ""
+        },
+        {
+            "nr": 20,
+            "text": "dübelt sich in meinen Kopf",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 21,
+            "text": "Später dann",
+            "lengthOfLine": 11,
+            "type": ""
+        },
+        {
+            "nr": 22,
+            "text": "kannst du Regale dran aufstellen, oder …",
+            "lengthOfLine": 40,
+            "type": ""
+        },
+        {
+            "nr": 23,
+            "text": "Zieh! Telefon! Jetzt aber wirklich",
+            "lengthOfLine": 34,
+            "type": ""
+        },
+        {
+            "nr": 24,
+            "text": "Sag mal hörst du das nicht?",
+            "lengthOfLine": 27,
+            "type": ""
+        },
+        {
+            "nr": 25,
+            "text": "Zieh! Das brennt ja wie verrückt!",
+            "lengthOfLine": 33,
+            "type": ""
+        },
+        {
+            "nr": 26,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 27,
+            "text": "Refrain:",
+            "lengthOfLine": 8,
+            "type": "Refrain"
+        },
+        {
+            "nr": 28,
+            "text": "Fütter mein Ego!",
+            "lengthOfLine": 16,
+            "type": "Refrain"
+        },
+        {
+            "nr": 29,
+            "text": "Fütter mein Ego!",
+            "lengthOfLine": 16,
+            "type": "Refrain"
+        },
+        {
+            "nr": 30,
+            "text": "Fütter mein Ego!",
+            "lengthOfLine": 16,
+            "type": "Refrain"
+        },
+        {
+            "nr": 31,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 32,
+            "text": "Ich bin das ganze chinesische Volk",
+            "lengthOfLine": 34,
+            "type": ""
+        },
+        {
+            "nr": 33,
+            "text": "und Yü-Gung kann Berge versetzen",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 34,
+            "text": "und alles ist wichtig",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 35,
+            "text": "Wovon reden wir denn die ganze Zeit?",
+            "lengthOfLine": 36,
+            "type": ""
+        },
+        {
+            "nr": 36,
+            "text": "Zieh! Pst!",
+            "lengthOfLine": 10,
+            "type": ""
+        },
+        {
+            "nr": 37,
+            "text": "Numb your ideals!",
+            "lengthOfLine": 17,
+            "type": ""
+        },
+        {
+            "nr": 38,
+            "text": "Numb your ideas…",
+            "lengthOfLine": 16,
+            "type": ""
+        },
+        {
+            "nr": 39,
+            "text": "Oder simpel deine Zähne!",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 40,
+            "text": "In meinem Mund ist sowieso alles verrottet",
+            "lengthOfLine": 42,
+            "type": ""
+        },
+        {
+            "nr": 41,
+            "text": "und meine Nase hat direkten Zugang zum Gehirn",
+            "lengthOfLine": 45,
+            "type": ""
+        },
+        {
+            "nr": 42,
+            "text": "Ich bin 6 m gross und alles ist wichtig",
+            "lengthOfLine": 39,
+            "type": ""
+        },
+        {
+            "nr": 43,
+            "text": "Ich bin 9 m gross und alles ist mehr als wichtig",
+            "lengthOfLine": 48,
+            "type": ""
+        },
+        {
+            "nr": 44,
+            "text": "Ich bin 12 m gross und alles ist unvorstellbar",
+            "lengthOfLine": 46,
+            "type": ""
+        },
+        {
+            "nr": 45,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 46,
+            "text": "Refrain:",
+            "lengthOfLine": 8,
+            "type": "Refrain"
+        },
+        {
+            "nr": 47,
+            "text": "Fütter mein Ego",
+            "lengthOfLine": 15,
+            "type": "Refrain"
+        },
+        {
+            "nr": 48,
+            "text": "Fütter mein Ego!",
+            "lengthOfLine": 16,
+            "type": "Refrain"
+        },
+        {
+            "nr": 49,
+            "text": "Fütter mein Ego!",
+            "lengthOfLine": 16,
+            "type": "Refrain"
+        },
+        {
+            "nr": 50,
+            "text": "Fütter mein Ego a go go",
+            "lengthOfLine": 23,
+            "type": "Refrain"
+        },
+        {
+            "nr": 51,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 52,
+            "text": "Zieh!",
+            "lengthOfLine": 5,
+            "type": ""
+        },
+        {
+            "nr": 53,
+            "text": "Ich bin das ganze chinesische Volk",
+            "lengthOfLine": 34,
+            "type": ""
+        },
+        {
+            "nr": 54,
+            "text": "und Yü-Gung kann Berge versetzen",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 55,
+            "text": "Bin 6m gross",
+            "lengthOfLine": 12,
+            "type": ""
+        },
+        {
+            "nr": 56,
+            "text": "Bin 9m gross",
+            "lengthOfLine": 12,
+            "type": ""
+        },
+        {
+            "nr": 57,
+            "text": "Bin 12m gross und",
+            "lengthOfLine": 17,
+            "type": ""
+        },
+        {
+            "nr": 58,
+            "text": "Fütter mein Ego",
+            "lengthOfLine": 15,
+            "type": ""
+        },
+        {
+            "nr": 59,
+            "text": "Fütter mein Ego!",
+            "lengthOfLine": 16,
+            "type": ""
+        },
+        {
+            "nr": 60,
+            "text": "Fütter mein Ego!",
+            "lengthOfLine": 16,
+            "type": ""
+        },
+        {
+            "nr": 61,
+            "text": "Heut Nacht!",
+            "lengthOfLine": 11,
+            "type": ""
+        },
+        {
+            "nr": 62,
+            "text": "Niemals schlafen",
+            "lengthOfLine": 16,
+            "type": ""
+        },
+        {
+            "nr": 63,
+            "text": "Alles Lügen",
+            "lengthOfLine": 11,
+            "type": ""
+        },
+        {
+            "nr": 64,
+            "text": "Staubiges Vergnügen",
+            "lengthOfLine": 19,
+            "type": ""
+        },
+        {
+            "nr": 65,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 66,
+            "text": "Author: Blixa Bargeld",
+            "lengthOfLine": 21,
+            "type": "Author"
+        },
+        {
+            "nr": 67,
+            "text": "1985",
+            "lengthOfLine": 4,
+            "type": "Author"
+        },
+        {
+            "nr": 68,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 69,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        }
+    ],
+    [
+        {
+            "nr": 0,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 1,
+            "text": "JENSEITS VON EDEN",
+            "lengthOfLine": 17,
+            "type": "Title"
+        },
+        {
+            "nr": 2,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 3,
+            "text": "Heiß, heiß, kochend heiß,",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 4,
+            "text": "heiß, heiß, hundert Grad,",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 5,
+            "text": "heiß, heiß, glühend heiß,",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 6,
+            "text": "heiß, heiß, blühend weiß.",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 7,
+            "text": "Jenseits von Eden.",
+            "lengthOfLine": 18,
+            "type": ""
+        },
+        {
+            "nr": 8,
+            "text": "Euphrat und Tigris",
+            "lengthOfLine": 18,
+            "type": ""
+        },
+        {
+            "nr": 9,
+            "text": "Allah wollte es - so",
+            "lengthOfLine": 20,
+            "type": ""
+        },
+        {
+            "nr": 10,
+            "text": "Sechshundertsechsundsechzig",
+            "lengthOfLine": 27,
+            "type": ""
+        },
+        {
+            "nr": 11,
+            "text": "schütze uns vor Gestern",
+            "lengthOfLine": 23,
+            "type": ""
+        },
+        {
+            "nr": 12,
+            "text": "Eins neun dreiunddreißig",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 13,
+            "text": "In 3D und Farbe",
+            "lengthOfLine": 15,
+            "type": ""
+        },
+        {
+            "nr": 14,
+            "text": "Dann ist Sendepause.",
+            "lengthOfLine": 20,
+            "type": ""
+        },
+        {
+            "nr": 15,
+            "text": "Das war der Wilde Westen.",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 16,
+            "text": "Hält Gott die Zehn Gebote?",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 17,
+            "text": "Ich will nicht,",
+            "lengthOfLine": 15,
+            "type": ""
+        },
+        {
+            "nr": 18,
+            "text": "daß du in schwarz gehst",
+            "lengthOfLine": 23,
+            "type": ""
+        },
+        {
+            "nr": 19,
+            "text": "weil ich tot bin.",
+            "lengthOfLine": 17,
+            "type": ""
+        },
+        {
+            "nr": 20,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 21,
+            "text": "Wo warst du im Krieg?",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 22,
+            "text": "Weißt du, was ich meine?",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 23,
+            "text": "Du warst auf der Suche,",
+            "lengthOfLine": 23,
+            "type": ""
+        },
+        {
+            "nr": 24,
+            "text": "ich war auf der Flucht.",
+            "lengthOfLine": 23,
+            "type": ""
+        },
+        {
+            "nr": 25,
+            "text": "Hörst du die Räder rollen?",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 26,
+            "text": "Durchsichtig und klar",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 27,
+            "text": "Irgendwann in der Nacht",
+            "lengthOfLine": 23,
+            "type": ""
+        },
+        {
+            "nr": 28,
+            "text": "In Musik gebadet",
+            "lengthOfLine": 16,
+            "type": ""
+        },
+        {
+            "nr": 29,
+            "text": "Jede Blume hat ihren Schatten",
+            "lengthOfLine": 29,
+            "type": ""
+        },
+        {
+            "nr": 30,
+            "text": "Zweitausend Lieder",
+            "lengthOfLine": 18,
+            "type": ""
+        },
+        {
+            "nr": 31,
+            "text": "Zweitausend Tode",
+            "lengthOfLine": 16,
+            "type": ""
+        },
+        {
+            "nr": 32,
+            "text": "Mamamama, warum hast du mich gebor'n",
+            "lengthOfLine": 36,
+            "type": ""
+        },
+        {
+            "nr": 33,
+            "text": "oder hat mich der Esel im Galopp verloren?",
+            "lengthOfLine": 42,
+            "type": ""
+        },
+        {
+            "nr": 34,
+            "text": "Ach ich spring ins Leere.",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 35,
+            "text": "Halleluja Schwestern",
+            "lengthOfLine": 20,
+            "type": ""
+        },
+        {
+            "nr": 36,
+            "text": "Ich hab den Text vergessen,",
+            "lengthOfLine": 27,
+            "type": ""
+        },
+        {
+            "nr": 37,
+            "text": "ich bin mein Fragezeichen.",
+            "lengthOfLine": 26,
+            "type": ""
+        },
+        {
+            "nr": 38,
+            "text": "Doch ich komm morgen wieder,",
+            "lengthOfLine": 28,
+            "type": ""
+        },
+        {
+            "nr": 39,
+            "text": "gib mir deinen Segen.",
+            "lengthOfLine": 21,
+            "type": ""
+        },
+        {
+            "nr": 40,
+            "text": "Liebe, was ist das?",
+            "lengthOfLine": 19,
+            "type": ""
+        },
+        {
+            "nr": 41,
+            "text": "Das ist das Leben in der Stadt,",
+            "lengthOfLine": 31,
+            "type": ""
+        },
+        {
+            "nr": 42,
+            "text": "was soll daran schlecht sein?",
+            "lengthOfLine": 29,
+            "type": ""
+        },
+        {
+            "nr": 43,
+            "text": "Liebe kommt von unten.",
+            "lengthOfLine": 22,
+            "type": ""
+        },
+        {
+            "nr": 44,
+            "text": "Liebe hat schwache Worte.",
+            "lengthOfLine": 25,
+            "type": ""
+        },
+        {
+            "nr": 45,
+            "text": "Ach ich bin so müde.",
+            "lengthOfLine": 20,
+            "type": ""
+        },
+        {
+            "nr": 46,
+            "text": "Ich geh hier nicht weg,",
+            "lengthOfLine": 23,
+            "type": ""
+        },
+        {
+            "nr": 47,
+            "text": "geh zurück ins Meer,",
+            "lengthOfLine": 20,
+            "type": ""
+        },
+        {
+            "nr": 48,
+            "text": "such mir meinen Engel.",
+            "lengthOfLine": 22,
+            "type": ""
+        },
+        {
+            "nr": 49,
+            "text": "Wer ist hinterm Spiegel?",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 50,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 51,
+            "text": "Author: Rio Reiser",
+            "lengthOfLine": 18,
+            "type": "Author"
+        },
+        {
+            "nr": 52,
+            "text": "1981",
+            "lengthOfLine": 4,
+            "type": "Author"
+        },
+        {
+            "nr": 53,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 54,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        }
+    ],
+    [
+        {
+            "nr": 0,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 1,
+            "text": "KEINE MACHT FÜR NIEMAND",
+            "lengthOfLine": 23,
+            "type": "Title"
+        },
+        {
+            "nr": 2,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 3,
+            "text": "Ich bin nicht frei und kann nur wählen",
+            "lengthOfLine": 38,
+            "type": ""
+        },
+        {
+            "nr": 4,
+            "text": "Welche Diebe mich bestehlen, welche Mörder mir befehlen",
+            "lengthOfLine": 55,
+            "type": ""
+        },
+        {
+            "nr": 5,
+            "text": "Ich bin tausendmal verblutet und sie ham mich vergessen",
+            "lengthOfLine": 55,
+            "type": ""
+        },
+        {
+            "nr": 6,
+            "text": "Ich bin tausendmal verhungert und sie war'n vollgefressen",
+            "lengthOfLine": 57,
+            "type": ""
+        },
+        {
+            "nr": 7,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 8,
+            "text": "Im Süden, im Westen, im Osten, im Norden",
+            "lengthOfLine": 40,
+            "type": ""
+        },
+        {
+            "nr": 9,
+            "text": "Es sind überall dieselben, die uns ermorden",
+            "lengthOfLine": 43,
+            "type": ""
+        },
+        {
+            "nr": 10,
+            "text": "In jeder Stadt und in jedem Land",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 11,
+            "text": "Schreibt die Parole an jede Wand",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 12,
+            "text": "Schreibt die Parole an jede Wand",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 13,
+            "text": "Keine Macht für Niemand!",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 14,
+            "text": "Keine Macht für Niemand!",
+            "lengthOfLine": 24,
+            "type": ""
+        },
+        {
+            "nr": 15,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 16,
+            "text": "Reißen wir die Mauern ein, die uns trennen",
+            "lengthOfLine": 42,
+            "type": ""
+        },
+        {
+            "nr": 17,
+            "text": "Kommt zusammen, Leute, lernt euch kennen",
+            "lengthOfLine": 40,
+            "type": ""
+        },
+        {
+            "nr": 18,
+            "text": "Du bist nicht besser als der neben dir",
+            "lengthOfLine": 38,
+            "type": ""
+        },
+        {
+            "nr": 19,
+            "text": "Keiner hat das Recht, Menschen zu regier'n",
+            "lengthOfLine": 42,
+            "type": ""
+        },
+        {
+            "nr": 20,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 21,
+            "text": "Bridge:",
+            "lengthOfLine": 7,
+            "type": "Bridge"
+        },
+        {
+            "nr": 22,
+            "text": "Im Süden, im Osten, im Norden, im Westen",
+            "lengthOfLine": 40,
+            "type": "Bridge"
+        },
+        {
+            "nr": 23,
+            "text": "Es sind überall die dieselben, die uns erpressen",
+            "lengthOfLine": 48,
+            "type": "Bridge"
+        },
+        {
+            "nr": 24,
+            "text": "In jeder Stadt und in jedem Land",
+            "lengthOfLine": 32,
+            "type": "Bridge"
+        },
+        {
+            "nr": 25,
+            "text": "Heißt die Parole von unserem Kampf",
+            "lengthOfLine": 34,
+            "type": "Bridge"
+        },
+        {
+            "nr": 26,
+            "text": "Heißt die Parole von unserem Kampf",
+            "lengthOfLine": 34,
+            "type": "Bridge"
+        },
+        {
+            "nr": 27,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 28,
+            "text": "Refrain:",
+            "lengthOfLine": 8,
+            "type": "Refrain"
+        },
+        {
+            "nr": 29,
+            "text": "Keine Macht für Niemand!",
+            "lengthOfLine": 24,
+            "type": "Refrain"
+        },
+        {
+            "nr": 30,
+            "text": "Keine Macht für Niemand!",
+            "lengthOfLine": 24,
+            "type": "Refrain"
+        },
+        {
+            "nr": 31,
+            "text": "Keine Macht für Niemand!",
+            "lengthOfLine": 24,
+            "type": "Refrain"
+        },
+        {
+            "nr": 32,
+            "text": "Keine Macht für Niemand!",
+            "lengthOfLine": 24,
+            "type": "Refrain"
+        },
+        {
+            "nr": 33,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 34,
+            "text": "Komm rüber Bruder, reih dich ein",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 35,
+            "text": "Komm rüber Schwester, du bist nicht allein",
+            "lengthOfLine": 42,
+            "type": ""
+        },
+        {
+            "nr": 36,
+            "text": "Komm rüber Mutter, wir sind auf deiner Seite",
+            "lengthOfLine": 44,
+            "type": ""
+        },
+        {
+            "nr": 37,
+            "text": "Komm rüber Alter, wir woll'n das Gleiche",
+            "lengthOfLine": 40,
+            "type": ""
+        },
+        {
+            "nr": 38,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 39,
+            "text": "In Augsburg, in München, Frankfurt, Saarbrücken",
+            "lengthOfLine": 47,
+            "type": ""
+        },
+        {
+            "nr": 40,
+            "text": "Es sind überall dieselben, die uns unterdrücken",
+            "lengthOfLine": 47,
+            "type": ""
+        },
+        {
+            "nr": 41,
+            "text": "In jeder Stadt und in jedem Land",
+            "lengthOfLine": 32,
+            "type": ""
+        },
+        {
+            "nr": 42,
+            "text": "Mach ne Faust aus deiner Hand",
+            "lengthOfLine": 29,
+            "type": ""
+        },
+        {
+            "nr": 43,
+            "text": "Mach ne Faust aus deiner Hand",
+            "lengthOfLine": 29,
+            "type": ""
+        },
+        {
+            "nr": 44,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 45,
+            "text": "Refrain:",
+            "lengthOfLine": 8,
+            "type": "Refrain"
+        },
+        {
+            "nr": 46,
+            "text": "Keine Macht für Niemand!",
+            "lengthOfLine": 24,
+            "type": "Refrain"
+        },
+        {
+            "nr": 47,
+            "text": "Keine Macht für Niemand!",
+            "lengthOfLine": 24,
+            "type": "Refrain"
+        },
+        {
+            "nr": 48,
+            "text": "Keine Macht für Niemand!",
+            "lengthOfLine": 24,
+            "type": "Refrain"
+        },
+        {
+            "nr": 49,
+            "text": "Keine Macht für Niemand!",
+            "lengthOfLine": 24,
+            "type": "Refrain"
+        },
+        {
+            "nr": 50,
+            "text": "Keine Macht für Niemand!",
+            "lengthOfLine": 24,
+            "type": "Refrain"
+        },
+        {
+            "nr": 51,
+            "text": "Keine Macht für Niemand!",
+            "lengthOfLine": 24,
+            "type": "Refrain"
+        },
+        {
+            "nr": 52,
+            "text": "Keine Macht für Niemand!",
+            "lengthOfLine": 24,
+            "type": "Refrain"
+        },
+        {
+            "nr": 53,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 54,
+            "text": "Author: Rio Reiser",
+            "lengthOfLine": 18,
+            "type": "Author"
+        },
+        {
+            "nr": 55,
+            "text": "1972",
+            "lengthOfLine": 4,
+            "type": "Author"
+        },
+        {
+            "nr": 56,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 57,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        }
+    ],
+    [
+        {
+            "nr": 0,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 1,
+            "text": "DER JUNGE AM FLUSS",
+            "lengthOfLine": 18,
+            "type": "Title"
+        },
+        {
+            "nr": 2,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 3,
+            "text": "Der Junge am Fluß, er liegt im Sand, blickt in den Himmel,",
+            "lengthOfLine": 58,
+            "type": ""
+        },
+        {
+            "nr": 4,
+            "text": "schaut in die Bäume, lauscht seinen Träumen,",
+            "lengthOfLine": 44,
+            "type": ""
+        },
+        {
+            "nr": 5,
+            "text": "fällt aus den Wolken, taucht in die Fluten,",
+            "lengthOfLine": 43,
+            "type": ""
+        },
+        {
+            "nr": 6,
+            "text": "treibt mit den Wellen, schwimmt mit dem Fisch, steigt dann ans Ufer.",
+            "lengthOfLine": 68,
+            "type": ""
+        },
+        {
+            "nr": 7,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 8,
+            "text": "Refrain:",
+            "lengthOfLine": 8,
+            "type": "Refrain"
+        },
+        {
+            "nr": 9,
+            "text": "Und liegt im Sand, der Junge am Fluß, er liegt im Sand",
+            "lengthOfLine": 54,
+            "type": "Refrain"
+        },
+        {
+            "nr": 10,
+            "text": "blickt in den Himmel, schaut in die Bäume,",
+            "lengthOfLine": 42,
+            "type": "Refrain"
+        },
+        {
+            "nr": 11,
+            "text": "Der Junge am Fluß, der Junge am Fluß.",
+            "lengthOfLine": 37,
+            "type": "Refrain"
+        },
+        {
+            "nr": 12,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 13,
+            "text": "Fällt aus den Wolken, taucht in die Fluten",
+            "lengthOfLine": 42,
+            "type": ""
+        },
+        {
+            "nr": 14,
+            "text": "treibt mit den Wellen, schwimmt mit dem Fisch, steigt dann ans Ufer.",
+            "lengthOfLine": 68,
+            "type": ""
+        },
+        {
+            "nr": 15,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 16,
+            "text": "Refrain...",
+            "lengthOfLine": 10,
+            "type": "Refrain"
+        },
+        {
+            "nr": 17,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 18,
+            "text": "Der Junge am Fluß.",
+            "lengthOfLine": 18,
+            "type": ""
+        },
+        {
+            "nr": 19,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 20,
+            "text": "Author: Volker Griepenstroh, Rio Reiser",
+            "lengthOfLine": 39,
+            "type": "Author"
+        },
+        {
+            "nr": 21,
+            "text": "1995",
+            "lengthOfLine": 4,
+            "type": "Author"
+        },
+        {
+            "nr": 22,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 23,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        }
+    ],
+    [
+        {
+            "nr": 0,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 1,
+            "text": "ALLES LÜGE",
+            "lengthOfLine": 10,
+            "type": "Title"
+        },
+        {
+            "nr": 2,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 3,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 4,
+            "text": "Es ist wahr, daß das Jahr über dreihundert Tage in nur zweiundfünfzig Wochen schafft.",
+            "lengthOfLine": 85,
+            "type": ""
+        },
+        {
+            "nr": 5,
+            "text": "Es ist wahr, es ist wahr, daß das Ausland vielmehr Ausländer als Deutsche hat.",
+            "lengthOfLine": 78,
+            "type": ""
+        },
+        {
+            "nr": 6,
+            "text": "Es ist wahr, daß die Sonne nicht um die Erde und der Mond nicht um 'nen Fußball kreist.",
+            "lengthOfLine": 87,
+            "type": ""
+        },
+        {
+            "nr": 7,
+            "text": "Es ist wahr, daß der Gründer von New York nicht Kamel oder Camel, sondern Stuyvesant heißt.",
+            "lengthOfLine": 91,
+            "type": ""
+        },
+        {
+            "nr": 8,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 9,
+            "text": "Refrain:",
+            "lengthOfLine": 8,
+            "type": "Refrain"
+        },
+        {
+            "nr": 10,
+            "text": "Das ist wahr, das ist wahr.",
+            "lengthOfLine": 27,
+            "type": "Refrain"
+        },
+        {
+            "nr": 11,
+            "text": "Aber sonst - aber sonst:",
+            "lengthOfLine": 24,
+            "type": "Refrain"
+        },
+        {
+            "nr": 12,
+            "text": "4x Alles Lüge!",
+            "lengthOfLine": 14,
+            "type": "Refrain"
+        },
+        {
+            "nr": 13,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 14,
+            "text": "Es ist wahr, es ist wahr, die meisten Menschen wollen nicht in Dortmund leben, sondern Essen.",
+            "lengthOfLine": 93,
+            "type": ""
+        },
+        {
+            "nr": 15,
+            "text": "Es ist wahr, es ist wahr, daß die Kühe das Gras nicht rauchen, sondern fressen.",
+            "lengthOfLine": 79,
+            "type": ""
+        },
+        {
+            "nr": 16,
+            "text": "Es ist wahr, es ist wahr, daß Hamburg nicht die Hauptstadt von McDonald's ist.",
+            "lengthOfLine": 78,
+            "type": ""
+        },
+        {
+            "nr": 17,
+            "text": "Es ist wahr, es ist wahr, daß der Papst zwar die Pille nicht nimmt, aber trotzdem keine Kinder kriegt.",
+            "lengthOfLine": 102,
+            "type": ""
+        },
+        {
+            "nr": 18,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 19,
+            "text": "Refrain...",
+            "lengthOfLine": 10,
+            "type": "Refrain"
+        },
+        {
+            "nr": 20,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 21,
+            "text": "Selbst wenn du mich fragst, ob ich dich liebe und ich sag ja,",
+            "lengthOfLine": 61,
+            "type": ""
+        },
+        {
+            "nr": 22,
+            "text": "weiß ich manchmal nicht genau, ist das nun Lüge oder wahr.",
+            "lengthOfLine": 58,
+            "type": ""
+        },
+        {
+            "nr": 23,
+            "text": "Weil ich oft gar nicht mehr weiß, was ist das: Liebe.",
+            "lengthOfLine": 53,
+            "type": ""
+        },
+        {
+            "nr": 24,
+            "text": "Liebt der Papa sein Auto, liebt die Mama den Kaffee?",
+            "lengthOfLine": 52,
+            "type": ""
+        },
+        {
+            "nr": 25,
+            "text": "Liebt das Baby seine Windeln, wie der Weihnachtsmann den Schnee?",
+            "lengthOfLine": 64,
+            "type": ""
+        },
+        {
+            "nr": 26,
+            "text": "Lieben Kinder Schokolade wie die Hausfrau den Herd?!",
+            "lengthOfLine": 52,
+            "type": ""
+        },
+        {
+            "nr": 27,
+            "text": "Oder ist da mehr, oder ist da mehr?",
+            "lengthOfLine": 35,
+            "type": ""
+        },
+        {
+            "nr": 28,
+            "text": "Oder ist das, oder ist das, oder ist das",
+            "lengthOfLine": 40,
+            "type": ""
+        },
+        {
+            "nr": 29,
+            "text": "",
+            "lengthOfLine": 0,
+            "type": ""
+        },
+        {
+            "nr": 30,
+            "text": "Author: Rio Reiser",
+            "lengthOfLine": 18,
+            "type": "Author"
+        },
+        {
+            "nr": 31,
+            "text": "1986",
+            "lengthOfLine": 4,
+            "type": "Author"
+        },
+        {
+            "nr": 32,
             "text": "",
             "lengthOfLine": 0,
             "type": ""
