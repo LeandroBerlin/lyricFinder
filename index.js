@@ -33,7 +33,7 @@ searchString = (req, res) => {
         return result;
     }
 
-    const selectLyrics = randomLyrics(list23, numberLines)
+    const selectLyrics = getRandomLyrics(list23, numberLines)
 
     const lyrics = selectLyrics.map(randomLine => {
 
