@@ -24,7 +24,7 @@ searchString = (req, res) => {
             len = arr.length,
             taken = new Array(len);
         if (n > len)
-            throw new RangeError("getRandomLyrics: more elements taken than available");
+            throw new RangeError("getRandomLyrics: more elements requested than available");
         while (n--) {
             var x = Math.floor(Math.random() * len);
             result[n] = arr[x in taken ? taken[x] : x];
@@ -63,6 +63,6 @@ app.get('/:stringLengthMin?/:stringLengthMax?/:numberLines?', cors(), searchStri
 
 
 
-const server = app.listen(3000, () => {
+const server = app.listen(4000, () => {
     console.log('Listening on port %s', server.address().port)
 })
