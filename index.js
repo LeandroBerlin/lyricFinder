@@ -10,14 +10,39 @@ searchString = (req, res) => {
     // Parse JSON
     const jsonContent = JSON.parse(content);
     // The desired length of a text line
-    const lineLength = req.params.stringLength ? req.params.stringLength : 23;
+    const lineLengthMin = req.params.stringLengthMin ? req.params.stringLengthMin : 10;
+    const lineLengthMax = req.params.stringLengthMax ? req.params.stringLengthMax : 60;
+    const numberLines = req.params.numberLines ? req.params.numberLines : 12;
     // Filter and assign all the lines that match the length + flat to single array
     const list23 = jsonContent.map(lyric =>
-        lyric.filter(line => (line.lengthOfLine >= lineLength ? line.text : ''))
+        lyric.filter(line => (line.lengthOfLine >= lineLengthMin && lineLengthMax ? line.text : ''))
     ).flat()
 
-    // Random pick one of the lines
-    const randomLine = list23[Math.floor(Math.random() * list23.length)]
+
+    const getRandomLyrics = (arr, n) => {
+        var result = new Array(n),
+            len = arr.length,
+            taken = new Array(len);
+        if (n > len)
+            throw new RangeError("getRandomLyrics: more elements taken than available");
+        while (n--) {
+            var x = Math.floor(Math.random() * len);
+            result[n] = arr[x in taken ? taken[x] : x];
+            taken[x] = --len in taken ? taken[len] : len;
+        }
+        return result;
+    }
+
+    const selectLyrics = randomLyrics(list23, numberLines)
+
+    const lyrics = selectLyrics.map(randomLine => {
+
+
+        var lyric = {
+            requested_length: lineLengthMin + ' / ' + lineLengthMax, string: randomLine.text, length: randomLine.lengthOfLine
+        }
+        return lyric;
+    })
 
     // Console log
     // console.log(`-- This is a line with length ${lineLength} --`)
@@ -25,15 +50,15 @@ searchString = (req, res) => {
     // console.log(randomLine.type)
 
     //Response
-    randomLine ?
-        res.json({ requested_length: lineLength, string: randomLine.text, length: randomLine.lengthOfLine })
+    lyrics ?
+        res.json(lyrics)
         :
         res.json({ msg: 'nothing with this length' })
 
 }
 
 
-app.get('/:stringLength?', cors(), searchString)
+app.get('/:stringLengthMin?/:stringLengthMax?/:numberLines?', cors(), searchString)
 
 
 
